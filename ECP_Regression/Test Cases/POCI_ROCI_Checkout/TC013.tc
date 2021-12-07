@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;Verify that user is able to view the selected store:
+ 
+ Distance of selected store from the input postcode in miles
+, Store name
+ ,Store Address
+ ,Opening Times</description>
+   <name>TC013</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>27cec4e9-eb82-4a1c-bb6e-a5a5c78f9b9a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Reset password  functionality with matching set of passwords</description>
+   <name>TC007</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>c5df145e-bc77-46e2-9b5d-505648b7e522</testCaseGuid>
+</TestCaseEntity>

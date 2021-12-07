@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>SOP Order processing - ROCI</description>
+   <name>TC192</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>b0789d45-9bdf-41ba-9de3-9b53747922aa</testCaseGuid>
+</TestCaseEntity>

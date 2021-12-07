@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that  non-fifm products should be shown in the basket after the completion of FIFM journey so user can place HWD or CNC order with that product</description>
+   <name>TC130</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>d8055899-8ebf-4554-a74b-da65a4352bb1</testCaseGuid>
+</TestCaseEntity>

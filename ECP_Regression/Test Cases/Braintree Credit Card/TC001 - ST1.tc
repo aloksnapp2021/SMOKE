@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Braintree card option on the checkout page</description>
+   <name>TC001 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>d4a089f7-53f2-4a66-b739-f8699f1305d0</testCaseGuid>
+</TestCaseEntity>

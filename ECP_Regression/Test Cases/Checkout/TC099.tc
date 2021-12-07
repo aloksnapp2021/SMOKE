@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify  the header of Step 2</description>
+   <name>TC099</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>9473a283-b1af-46e3-94ac-2b4d390ab222</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Pass_mismatch</name>
+   <tag></tag>
+   <elementGuidId>9cc31489-45eb-4b08-83e6-b71f5fd7009b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cpasswordError</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='CPW']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='CPW']</value>
+   </webElementXpaths>
+</WebElementEntity>

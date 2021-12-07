@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create a promocode  -Verify that user is able to add new single promo code</description>
+   <name>TC197</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>b18776d7-e478-49fb-a1ea-8160a3e40642</testCaseGuid>
+</TestCaseEntity>

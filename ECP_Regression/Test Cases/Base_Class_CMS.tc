@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case will be used as a base class for login into the CMS panel.</description>
+   <name>Base_Class_CMS</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>34e2748c-0628-4deb-a10a-81088bbe2732</testCaseGuid>
+</TestCaseEntity>

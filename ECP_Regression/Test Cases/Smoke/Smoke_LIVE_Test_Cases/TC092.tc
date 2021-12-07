@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case will verify the android and ios app icons in the footer.</description>
+   <name>TC092</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>eba9d461-fec5-4b88-b086-4a5ed82f0c90</testCaseGuid>
+</TestCaseEntity>

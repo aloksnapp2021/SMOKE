@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the heading of shoping cart page.</description>
+   <name>TC008</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>af6962ce-427c-4828-8c23-0bad2c043aea</testCaseGuid>
+</TestCaseEntity>

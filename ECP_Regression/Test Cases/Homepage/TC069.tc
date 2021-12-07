@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the search functionality when user enter single character</description>
+   <name>TC069</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>9fcfac04-644f-4cc6-b5ea-599ba26c8af7</testCaseGuid>
+</TestCaseEntity>

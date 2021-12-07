@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify HWD order placement with Body Panel (UK)</description>
+   <name>TC204</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>c453056b-4cbd-4db4-891b-8bf2b23d61a6</testCaseGuid>
+</TestCaseEntity>

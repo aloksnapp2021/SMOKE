@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;Validate User will get Below Section on home page
+1. Top Trending
+2. Latest Offers
+3. Your recently viewed items (User should be able to add product UKom this section)
+4. Your recently viewed items
+5. What our customers think
+6. Why use anyone else?&quot;</description>
+   <name>TC004</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>d7b44c70-a4f9-41f6-bce5-9908dfb8b41b</testCaseGuid>
+</TestCaseEntity>

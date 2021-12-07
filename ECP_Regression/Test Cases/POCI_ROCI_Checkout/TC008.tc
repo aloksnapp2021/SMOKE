@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user is able to view the text:- &quot;By registering, you confirm that you have read and accept our Terms &amp; Conditions and Privacy notice&quot;</description>
+   <name>TC008</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>d08f957f-0591-4b05-b311-f9c2c8d83647</testCaseGuid>
+</TestCaseEntity>

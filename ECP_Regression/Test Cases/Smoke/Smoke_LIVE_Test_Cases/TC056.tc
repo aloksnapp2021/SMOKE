@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that in the footer Feedback section is working correctly.</description>
+   <name>TC056</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2462b7d-fd43-47d3-babe-96e91371b5f3</testCaseGuid>
+</TestCaseEntity>

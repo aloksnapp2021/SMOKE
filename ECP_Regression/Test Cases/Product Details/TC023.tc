@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the home delivery functionality for LION battery.</description>
+   <name>TC023</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>456973a1-c40a-4e6f-b672-86d02cf10cad</testCaseGuid>
+</TestCaseEntity>

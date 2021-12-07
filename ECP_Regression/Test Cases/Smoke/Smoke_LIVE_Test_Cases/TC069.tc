@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Spark Plugs category page navigation</description>
+   <name>TC069</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>a2772c4e-4fd9-47ce-ac19-d62ac7f4d644</testCaseGuid>
+</TestCaseEntity>

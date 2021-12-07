@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Distributor Caps category page navigation</description>
+   <name>TC083</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>f9a5ab65-b056-4e70-b1a0-60753b8157b1</testCaseGuid>
+</TestCaseEntity>

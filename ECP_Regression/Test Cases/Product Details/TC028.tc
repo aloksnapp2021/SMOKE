@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the colour of in stock and out of stock text.</description>
+   <name>TC028</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>c99c09b3-8c9f-4713-ae63-be42b529e8e1</testCaseGuid>
+</TestCaseEntity>

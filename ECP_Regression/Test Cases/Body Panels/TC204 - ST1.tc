@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify HWD order placement with Body Panel (UK)</description>
+   <name>TC204 - ST1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0764428-95c7-4719-80fd-4f6666649007</testCaseGuid>
+</TestCaseEntity>

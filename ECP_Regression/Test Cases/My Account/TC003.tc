@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that when user clicks on &quot;Delivery Option&quot; then delivery orders should be shown.</description>
+   <name>TC003</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>1b8044ae-6b46-4b36-9b05-620899a07e0b</testCaseGuid>
+</TestCaseEntity>

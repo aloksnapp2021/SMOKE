@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Wiper Blades category page navigation</description>
+   <name>TC072</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>743a5c1c-a4f1-4544-96dd-fe15d777b1ee</testCaseGuid>
+</TestCaseEntity>

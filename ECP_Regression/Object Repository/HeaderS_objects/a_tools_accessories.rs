@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_tools_accessories</name>
+   <tag></tag>
+   <elementGuidId>a3461881-6d37-4fa2-ad6c-81a7b99a78f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.tier1nav.tools-link > a.onlydlink.menu-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@title=&quot;Accessories&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[@title=&quot;Accessories&quot;]</value>
+   </webElementXpaths>
+</WebElementEntity>

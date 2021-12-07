@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that once the autopoulate is active for all the users, the promo code will be populated in the basket, if a user removes this then all the pricing will be reverted to standard.</description>
+   <name>TC036</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>2c45fc02-a65a-4f27-8f88-965e560631d9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the functionality for the International delivery order</description>
+   <name>TC030</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>e78333b1-71bb-407f-97b4-70b3882b4cb8</testCaseGuid>
+</TestCaseEntity>

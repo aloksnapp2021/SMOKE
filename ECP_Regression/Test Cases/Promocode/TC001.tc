@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that for the Multi promo codes, following changes are required in the CMS section:
+
+1) Remove the Autopopulation Checkbox under the 'Actions' column
+2)Add a ‘Select Countdown Timer’ search field with values ‘Active' or 'Inactive’
+3)Add a new column named ‘Autopopulate’ which highlight their values ‘Yes' or 'No’</description>
+   <name>TC001</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e4dbbcd5-4086-4e51-ad62-cc68a035fb4b</testCaseGuid>
+</TestCaseEntity>

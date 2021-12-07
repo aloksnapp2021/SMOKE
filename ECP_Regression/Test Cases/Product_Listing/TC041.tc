@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the confirmation message if the no record availble in the listing.</description>
+   <name>TC041</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>2e926cc3-2c93-4f4e-8ddd-24c3db457c1c</testCaseGuid>
+</TestCaseEntity>

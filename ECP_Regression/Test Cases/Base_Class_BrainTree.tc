@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case will be used as a baseclass for the Braintree test cases to switch between various instances.</description>
+   <name>Base_Class_BrainTree</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae466251-68b7-401a-868a-59bbe1a75c9a</testCaseGuid>
+</TestCaseEntity>

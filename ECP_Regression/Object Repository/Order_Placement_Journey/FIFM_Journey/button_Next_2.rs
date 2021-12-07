@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Next_2</name>
+   <tag></tag>
+   <elementGuidId>02da416f-2a98-4dbc-8a4f-49156d847a42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[contains(text(),'Next')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#fit-it-me-reg-info</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+</WebElementEntity>

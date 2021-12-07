@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the separate function of countdown timer settings needs to be removed from the CMS and it needs to be merged into the Multi promo code details page in an additional tab.</description>
+   <name>TC005</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>bbb71f67-016b-4adf-b3a6-0b613b84f0b0</testCaseGuid>
+</TestCaseEntity>

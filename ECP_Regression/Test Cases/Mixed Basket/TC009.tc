@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the total price of product with mutiple quanitity.</description>
+   <name>TC009</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>c908ef1f-8e38-441e-b3dc-da06103cba98</testCaseGuid>
+</TestCaseEntity>

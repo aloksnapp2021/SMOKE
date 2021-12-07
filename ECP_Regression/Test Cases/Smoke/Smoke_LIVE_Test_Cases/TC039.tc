@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Enter mismatching passwords and then click on the submit button.</description>
+   <name>TC039</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>d0958300-96d1-4699-af64-1e26ff732e8a</testCaseGuid>
+</TestCaseEntity>

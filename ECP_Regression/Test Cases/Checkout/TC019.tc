@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate 5 fields on register.
+1) First Name
+2) Surname
+3) Email Address
+4) Password
+5) Confirm Password</description>
+   <name>TC019</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>9d17dbf2-ce15-4982-9c4c-ef1e4daf7121</testCaseGuid>
+</TestCaseEntity>

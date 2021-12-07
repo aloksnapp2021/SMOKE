@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Calipers category page navigation</description>
+   <name>TC070</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>4786d328-716b-49c8-b0fe-7c61e8657f1d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Personal Details button functionality</description>
+   <name>TC019</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>d92276a9-3da0-4ddc-a024-82208d4d7ac4</testCaseGuid>
+</TestCaseEntity>

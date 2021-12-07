@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_postcode</name>
+   <tag></tag>
+   <elementGuidId>d45bef19-5cb7-4ab4-957b-80d62b404053</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#postcodedesk</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='postcodedesk']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='postcodedesk']</value>
+   </webElementXpaths>
+</WebElementEntity>

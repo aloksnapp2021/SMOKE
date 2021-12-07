@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify SOPV3 HWD order processing with Body Panel product(UK)</description>
+   <name>TC205</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>d183b1c7-e73f-4ba4-a312-d963c39cd836</testCaseGuid>
+</TestCaseEntity>

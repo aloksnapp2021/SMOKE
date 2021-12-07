@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>For the CNC orders verify that the following details will be displayed with each product in the list on the Order Confirmation Page:
+
+
+1. Title
+
+
+2. Product Code
+
+
+3. Unit Price
+
+
+4. Total Price
+
+
+5. Quantity</description>
+   <name>TC023 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>f91c788e-e11c-413b-a042-e1942647c0d3</testCaseGuid>
+</TestCaseEntity>

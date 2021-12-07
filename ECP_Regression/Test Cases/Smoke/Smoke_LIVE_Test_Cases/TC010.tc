@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Search functionality with Part number</description>
+   <name>TC010</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>e2203181-c1e1-4341-8416-25b566cba137</testCaseGuid>
+</TestCaseEntity>

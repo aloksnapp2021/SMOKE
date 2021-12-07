@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Checkout total amount and the product amount after adding or removing an item from the Checkout.</description>
+   <name>TC013</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>b54a2ebc-83ca-4129-a709-c780edf3803a</testCaseGuid>
+</TestCaseEntity>

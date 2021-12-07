@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate 2 links</description>
+   <name>TC005</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>05cff595-2dde-448d-b7f7-f79447f1bebc</testCaseGuid>
+</TestCaseEntity>

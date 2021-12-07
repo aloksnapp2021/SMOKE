@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Shopping Checkout functionality when all products are removed and add again.</description>
+   <name>TC009</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>dff290ef-9e14-4e41-a706-20967218b793</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user is able to open add new fraud postcode page</description>
+   <name>TC024 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>9ef89423-8591-4b86-96c3-15cc5fc3f77a</testCaseGuid>
+</TestCaseEntity>

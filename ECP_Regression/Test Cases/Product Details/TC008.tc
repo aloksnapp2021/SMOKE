@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the brands image.</description>
+   <name>TC008</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>674fe30d-7b1e-4c00-bbbc-2ed4e2011a65</testCaseGuid>
+</TestCaseEntity>

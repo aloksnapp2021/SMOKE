@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate we are showing Reviews on PDP</description>
+   <name>TC019</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>f72b6df9-4433-41cf-94ef-af36b3f61fa7</testCaseGuid>
+</TestCaseEntity>

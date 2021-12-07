@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the date and day of Premium Next day delivery for the orders placed on Monday after 4pm</description>
+   <name>TC141</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>acf2cdb7-e8e6-418e-8669-42c41c2f6bc0</testCaseGuid>
+</TestCaseEntity>

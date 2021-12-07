@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that &quot;In Stock&quot; text is showing for the product when stock is available</description>
+   <name>TC120</name>
+   <tag>Instock, smoke</tag>
+   <comment></comment>
+   <testCaseGuid>d8686fd4-0519-4f2a-bcbd-1fcef25b2780</testCaseGuid>
+</TestCaseEntity>

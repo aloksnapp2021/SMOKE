@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user is able to open add new SDD postcode page</description>
+   <name>TC027 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>d7f1d269-aca4-4e02-a0ba-804ad017cc8e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Home Delivery functionality for single product.
+</description>
+   <name>TC017</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>34f644c5-2d3b-437e-b4b3-5061c1c71390</testCaseGuid>
+</TestCaseEntity>

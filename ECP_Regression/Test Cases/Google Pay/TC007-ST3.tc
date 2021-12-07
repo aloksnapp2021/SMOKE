@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that there is no impact on the other payment types and all the logic should work as is.</description>
+   <name>TC007-ST3</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>47cd7486-b4b7-4f38-b6ae-c00d21700141</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case will verify the filter options on PLP.</description>
+   <name>TC089</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>5e538593-ddec-4ffe-920a-02a0c376c87a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user is able to view Place order button when Pay by Debit/Credit Card is selected as Payment Method</description>
+   <name>TC019</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>b83f20f4-ecce-46f5-b7a8-9c89f8317d02</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check Stock button functionality at PDP page</description>
+   <name>TC102</name>
+   <tag>Check Stock</tag>
+   <comment></comment>
+   <testCaseGuid>a5aa3b0b-eebf-4e23-b751-33e896f71bd2</testCaseGuid>
+</TestCaseEntity>

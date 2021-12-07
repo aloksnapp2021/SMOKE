@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the day and date of the DHL Express Delivery for the orders placed on Fri before 4 pm</description>
+   <name>TC138</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>0137309b-962d-452d-9d31-1f3d7f0070aa</testCaseGuid>
+</TestCaseEntity>

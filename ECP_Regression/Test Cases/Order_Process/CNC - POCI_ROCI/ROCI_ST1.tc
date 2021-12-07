@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case will place a new ROCI order on the ST1 instance.</description>
+   <name>ROCI_ST1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a72b7bae-0b98-4cd2-a2b8-05baa99c350d</testCaseGuid>
+</TestCaseEntity>

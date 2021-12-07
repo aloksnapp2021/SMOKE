@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the autopoulate should show the active promotion on the basket, the discount should be applied and further should reflect on checkout, order confirmation, page, SOPV3</description>
+   <name>ST1-TC040</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e6372059-9a09-47e0-bae1-7cd2732922ba</testCaseGuid>
+</TestCaseEntity>

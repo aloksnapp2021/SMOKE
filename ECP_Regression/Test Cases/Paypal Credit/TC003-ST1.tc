@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the orders that are placed via Paypal credit should show the status as &quot;BT-PC&quot;</description>
+   <name>TC003-ST1</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>f5376813-6379-429b-9821-5b8e78957b32</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the list of nearest stores will be displayed in the popup along with the following details:
+
+Product Thumbnail
+Product Title
+Product Code
+Name
+Miles (with each )
+Map (with each ) - Clicking on this will open  details page in a separate tab</description>
+   <name>TC016</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>49b8b9ec-5eab-40a7-b0ab-2aefff421ddb</testCaseGuid>
+</TestCaseEntity>

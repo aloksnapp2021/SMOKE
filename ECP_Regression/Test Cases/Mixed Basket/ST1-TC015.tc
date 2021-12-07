@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that after applying the promo code, the discount is getting applied to the full basket, even if the product is available or not (same as existing), but on checkout page, the discount will only be applied to items which are available for the delivery method selected by user.</description>
+   <name>ST1-TC015</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>cf9409cb-4cbf-4574-9b15-7ce243cfe9fa</testCaseGuid>
+</TestCaseEntity>

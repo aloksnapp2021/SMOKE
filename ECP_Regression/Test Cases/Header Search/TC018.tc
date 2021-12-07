@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Search functionality with Vehicle selection</description>
+   <name>TC018</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>b79eb48b-d2e3-4681-86d1-d34f127809ec</testCaseGuid>
+</TestCaseEntity>

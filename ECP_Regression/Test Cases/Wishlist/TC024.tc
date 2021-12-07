@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate thatPromo Code auto Populate functionality</description>
+   <name>TC024</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>650e4824-de41-45fc-b5cd-2939b99b5e41</testCaseGuid>
+</TestCaseEntity>

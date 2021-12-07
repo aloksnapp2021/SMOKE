@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Shopping Checkout with valid promo code.</description>
+   <name>TC014</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>ff614bc7-280f-4ce2-8123-3a7cc8820c5c</testCaseGuid>
+</TestCaseEntity>

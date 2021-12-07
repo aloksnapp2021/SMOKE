@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify CNC/changecncstore functionality</description>
+   <name>TC110</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>ae8fca6c-7adc-4101-9577-34d4e18f55c7</testCaseGuid>
+</TestCaseEntity>

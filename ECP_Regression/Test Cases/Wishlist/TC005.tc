@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that product stays there in the wishlist until user removes it from wishlist</description>
+   <name>TC005</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>d7d1fcb6-7367-4865-98f5-e784992ca4c9</testCaseGuid>
+</TestCaseEntity>

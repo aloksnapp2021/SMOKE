@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Same day delivery  functionality for single product.</description>
+   <name>TC012 - ST1</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>478ab72a-cbd9-4b20-96fb-56d6055532d0</testCaseGuid>
+</TestCaseEntity>

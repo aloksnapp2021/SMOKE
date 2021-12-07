@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate for CNC Stock Verification on Choose a store to collect from</description>
+   <name>TC037</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>ea7d2971-52a1-46c9-ae91-e1b1e68c010c</testCaseGuid>
+</TestCaseEntity>

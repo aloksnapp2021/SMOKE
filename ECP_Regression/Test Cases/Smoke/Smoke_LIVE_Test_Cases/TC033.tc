@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Shopping Checkout functionality if quantity is increase</description>
+   <name>TC033</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>1f4ffaae-385c-4ad0-b397-9153d45eb421</testCaseGuid>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>0ef19023-95d2-4e34-a5b9-4da43c7056e9</id>
+      <masked>false</masked>
+      <name>pricevalue_initial</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>a09aea22-3a31-4f5e-ab7c-3090b538b490</id>
+      <masked>false</masked>
+      <name>pricevalue_initial_final</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>1827a177-9a89-4372-bbb3-01251a71da70</id>
+      <masked>false</masked>
+      <name>pricevalue_updated</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>8aa9524f-846b-4a3d-9386-b605032a553c</id>
+      <masked>false</masked>
+      <name>pricevalue_updated_final</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>c1f9f9d3-fb65-4903-890d-e99f3e5b18d6</id>
+      <masked>false</masked>
+      <name>price_actual</name>
+   </variable>
+</TestCaseEntity>

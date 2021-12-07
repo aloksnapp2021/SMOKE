@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the validations is working as expected for the Address Details section.</description>
+   <name>TC053</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>1841eed2-22f4-491f-abc2-839545baca65</testCaseGuid>
+</TestCaseEntity>

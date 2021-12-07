@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate back button functionality on the browser if user is logged in </description>
+   <name>TC006</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>ea2e3eba-1568-4d2c-8191-b8788e628495</testCaseGuid>
+</TestCaseEntity>

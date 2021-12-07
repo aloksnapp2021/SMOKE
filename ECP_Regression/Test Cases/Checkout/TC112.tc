@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Register, Guest on checkout page.</description>
+   <name>TC112</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>e0a24257-b578-4c64-8270-12fa979dd2d2</testCaseGuid>
+</TestCaseEntity>

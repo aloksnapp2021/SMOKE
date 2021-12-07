@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Accessories Category functionality on Search result page when vehicle is selected</description>
+   <name>TC023</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>f3ef7092-cb56-4fa9-8bca-96cb1c976bac</testCaseGuid>
+</TestCaseEntity>

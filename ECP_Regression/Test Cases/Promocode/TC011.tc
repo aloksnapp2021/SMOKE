@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the form fields should have all the existing validations and check.</description>
+   <name>TC011</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>beb115c5-a340-4870-97b3-ce4616560cbc</testCaseGuid>
+</TestCaseEntity>

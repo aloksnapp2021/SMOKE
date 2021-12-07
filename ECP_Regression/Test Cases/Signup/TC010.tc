@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Create Account functionality with Password</description>
+   <name>TC010</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>55eb668e-9da5-4b38-a7ec-514b10450fff</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that price of the cloned/masked product in FIFM journey is as per the rule set in CMS.</description>
+   <name>TC111 - ST1</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>1c4ffa9a-0020-429f-827f-d376b5a64c48</testCaseGuid>
+</TestCaseEntity>

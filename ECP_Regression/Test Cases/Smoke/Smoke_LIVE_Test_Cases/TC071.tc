@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Alternator category page navigation</description>
+   <name>TC071</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>3f2c20a4-a3f1-421a-a842-c97dc3326de6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Search suggestion functionality.</description>
+   <name>TC008</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>98c9f14a-2a9e-44f7-9468-3b16d37a4cb2</testCaseGuid>
+</TestCaseEntity>

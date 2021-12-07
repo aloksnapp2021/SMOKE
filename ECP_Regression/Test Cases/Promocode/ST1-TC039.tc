@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that incase the promotion hasn't been activated from the backend. The site should work as it is working today.</description>
+   <name>ST1-TC039</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>abc083d9-e08b-44e2-be42-6631fa4d180f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the the PayPal credit option should appear on the checkout page itself and not on the third party site</description>
+   <name>TC011-ST1</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>740613bc-826a-47ba-b318-07a08ca50019</testCaseGuid>
+</TestCaseEntity>

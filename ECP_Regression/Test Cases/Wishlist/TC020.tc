@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that user should be able to add more than 50 Products in the Wishlist in case of logged-in user</description>
+   <name>TC020</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>bc24d5ea-7d7a-4d91-8f21-baa27954205e</testCaseGuid>
+</TestCaseEntity>

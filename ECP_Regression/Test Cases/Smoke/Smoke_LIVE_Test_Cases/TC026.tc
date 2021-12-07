@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that functionality of placing a HWD order.
+</description>
+   <name>TC026</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>ebae8d17-efa4-461a-9f3e-0f2d31c5348f</testCaseGuid>
+</TestCaseEntity>

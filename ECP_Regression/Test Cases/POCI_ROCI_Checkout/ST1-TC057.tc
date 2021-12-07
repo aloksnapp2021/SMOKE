@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the status column of a POCI order gets highlighted in the below mentioned colours:
+Amber colour if the order has not been marked as collected 1 day after the order was supposed to be collected
+Red colour if the order has not been marked as collected 7 days after the order was supposed to be collected</description>
+   <name>ST1-TC057</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>e20290bb-dcaf-4cbb-b85a-361323d1ecbc</testCaseGuid>
+</TestCaseEntity>

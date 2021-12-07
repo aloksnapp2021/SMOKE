@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that if there is No promo available or it is expired, then the Was Price and Sale Price will be same (VAT Inclusive price).</description>
+   <name>ST1-TC018</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>58cc940b-5664-46ec-b826-4c506aea7e1e</testCaseGuid>
+</TestCaseEntity>

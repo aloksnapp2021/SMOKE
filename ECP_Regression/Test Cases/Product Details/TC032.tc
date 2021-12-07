@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate below message on PDP
+
+
+1. In Stock/ Out Stock
+
+
+2. Free delivery available 
+
+
+3. Next day delivery available time</description>
+   <name>TC032</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>17864fb5-f394-41eb-8747-62aa6b085cc8</testCaseGuid>
+</TestCaseEntity>

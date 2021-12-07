@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the front-end user should only be able to view the Google pay option if the module is On from the Admin panel.</description>
+   <name>TC012_ST3</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>3e52522c-6609-4eb7-8b9f-8b4cf010cd37</testCaseGuid>
+</TestCaseEntity>

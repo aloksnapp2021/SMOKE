@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the confirmation pop up for Brake disk product.</description>
+   <name>TC026</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>6ec05b10-0ecc-4f90-8c31-6f4b5ee5ae55</testCaseGuid>
+</TestCaseEntity>

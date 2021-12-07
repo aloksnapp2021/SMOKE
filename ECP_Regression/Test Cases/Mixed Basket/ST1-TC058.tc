@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the following details will be displayed with each product in the list on the Order Confirmation Page:
+
+
+
+1.Image
+
+
+2.Title
+
+
+3.Product Code
+
+
+4.Unit Price
+
+
+5.Total Price
+6.Quantity</description>
+   <name>ST1-TC058</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b25b1078-8e26-4899-a2b8-9a3786dcbe15</testCaseGuid>
+</TestCaseEntity>

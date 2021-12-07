@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Logo functionality.</description>
+   <name>TC003</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>b6d5c8d4-30a6-493a-a184-53770ea31c76</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e1b7b35e-1760-4d72-baa1-46fe0e8172d4</id>
+      <masked>false</masked>
+      <name>text</name>
+   </variable>
+</TestCaseEntity>

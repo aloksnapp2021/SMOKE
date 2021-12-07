@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the SOP events are getting updated for PayPal credit as well and shown in the summary tab on order detail page</description>
+   <name>TC004-ST3</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>05bc046e-d206-415f-aed5-c850d3e835f1</testCaseGuid>
+</TestCaseEntity>

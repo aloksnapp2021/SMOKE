@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Search functionality with default value.</description>
+   <name>TC006</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>b5bb56db-4b4d-460b-bb2d-643b6b36dec1</testCaseGuid>
+</TestCaseEntity>

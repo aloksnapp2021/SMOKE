@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the date and day of Premium Next day delivery for the orders placed on  SUN before 4 pm</description>
+   <name>TC152</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>d69d3fce-4772-425c-aaff-8c314ca221d5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that when user clicks on &quot;Collection&quot; Option the ROCI and POCI orders should be shown.</description>
+   <name>TC005</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>a6a86c1c-9223-45be-bd4e-a0fb0ab57ad1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify &quot;Register&quot; section</description>
+   <name>TC003 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>bca5cfd6-cb5d-4ff2-9adb-55e954e7dbe8</testCaseGuid>
+</TestCaseEntity>

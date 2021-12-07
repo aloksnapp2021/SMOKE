@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the ECP require an option to remove the autopopulate promo code for marketing purpose using the url (/?promo=null)</description>
+   <name>TC025</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>873f97c7-f38e-4f88-93d1-f53f9bd0449a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The trasaction amount on the payment page should be same as the amount on checkout page </description>
+   <name>TC019-ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>a3ff001e-ff08-4ffe-84e1-0abd6a44ef6b</testCaseGuid>
+</TestCaseEntity>

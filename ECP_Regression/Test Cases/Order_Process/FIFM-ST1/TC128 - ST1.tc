@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the items are still displayed on the basket other than the user journey selected</description>
+   <name>TC128 - ST1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3bec891-6549-485b-be5a-d08da16384a3</testCaseGuid>
+</TestCaseEntity>

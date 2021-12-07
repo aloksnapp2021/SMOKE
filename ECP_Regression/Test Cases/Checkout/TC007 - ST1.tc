@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify &quot;CNC&quot; delivery</description>
+   <name>TC007 - ST1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d806bb14-8fa1-43eb-b8d0-f1974aa12ffb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the Royal mail carriage i if all the delivery is domestic</description>
+   <name>TC158</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>b5c9be78-8e86-4ea8-8f19-7d053b90849a</testCaseGuid>
+</TestCaseEntity>

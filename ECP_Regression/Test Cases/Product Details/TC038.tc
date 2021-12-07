@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate below message on Choose a store to collect UKom
+
+1. Collect Today
+
+2. Tomorrow</description>
+   <name>TC038</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>c35993cb-413b-4f5a-9c56-8dee0cc14c05</testCaseGuid>
+</TestCaseEntity>

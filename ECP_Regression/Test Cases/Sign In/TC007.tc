@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate  page url without login to application</description>
+   <name>TC007</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>fd20fdc3-9533-43e9-a396-3638b4bec424</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b0cfa3be-0696-4e88-8ac7-e7103ba62221</id>
+      <masked>false</masked>
+      <name>test</name>
+   </variable>
+</TestCaseEntity>

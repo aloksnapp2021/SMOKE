@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify the SDD carriage on the basket page before order placement if issdds is ON.</description>
+   <name>TC160</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>a6f928d6-2257-4d46-82e5-fb86507e2b28</testCaseGuid>
+</TestCaseEntity>

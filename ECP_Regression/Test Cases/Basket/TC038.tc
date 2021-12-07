@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the “UK Delivery” button will be shown as disabled if all the products added to Basket are not available for Home Delivery.</description>
+   <name>TC038</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>ad14c84a-8890-44eb-9e77-9a8939da8d5c</testCaseGuid>
+</TestCaseEntity>

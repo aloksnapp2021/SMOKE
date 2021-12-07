@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PLP_surcharge_object</name>
+   <tag></tag>
+   <elementGuidId>7a530a58-0807-4512-87ad-cde2baf26212</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class=&quot;surcharge-text&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.surcharge-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+</WebElementEntity>

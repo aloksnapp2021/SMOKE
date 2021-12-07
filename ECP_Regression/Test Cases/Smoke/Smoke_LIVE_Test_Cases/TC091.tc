@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate on the product listing page in the footer there is a Top Brands section showing</description>
+   <name>TC091</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>4a27849a-da1d-4cad-9805-099338a9a9c4</testCaseGuid>
+</TestCaseEntity>

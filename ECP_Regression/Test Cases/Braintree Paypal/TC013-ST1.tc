@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the payment's details of each order in sandbox</description>
+   <name>TC013-ST1</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>d19289a5-3a7c-4940-b532-42e738b8d5f5</testCaseGuid>
+</TestCaseEntity>

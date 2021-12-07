@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;Validate that user will get below listed tab on PDP
+1. Fitment detail
+2. Specificaitions
+3. Delivery &amp; Returns
+4. Reviews
+
+Note: On click on respective tab, tab should get open correctly&quot;</description>
+   <name>TC016</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>57fe910f-4941-4016-927f-9e08eb883c8e</testCaseGuid>
+</TestCaseEntity>

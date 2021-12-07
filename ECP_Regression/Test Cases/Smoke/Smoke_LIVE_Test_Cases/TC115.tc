@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that user is able to view each product when click on any brand in grouping</description>
+   <name>TC115</name>
+   <tag>Brand grouping</tag>
+   <comment></comment>
+   <testCaseGuid>d6197ffb-e445-474a-a30f-9cba3c1116c0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user is able to add new store</description>
+   <name>TC196</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>44404a62-c24a-454b-a1bc-5ae356415c60</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Tier 1 Travel and Touring product listing page navigation</description>
+   <name>TC064</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb516e00-20ba-45a7-8751-852a488f962d</testCaseGuid>
+</TestCaseEntity>

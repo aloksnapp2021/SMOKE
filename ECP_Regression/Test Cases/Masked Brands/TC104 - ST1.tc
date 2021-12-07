@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify mask/clone brand product are eligible for FIFM journey if they are from eligible categories.</description>
+   <name>TC104 - ST1</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>e2fc2536-8830-4096-a8cb-9f156b4947a8</testCaseGuid>
+</TestCaseEntity>

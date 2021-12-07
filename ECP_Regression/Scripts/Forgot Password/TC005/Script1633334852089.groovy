@@ -1,0 +1,61 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
+
+WebUI.callTestCase(findTestCase('Forgot Password/Forgot_Base_Class'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.sendKeys(findTestObject('Forgot_objects/input__email'), GlobalVariable.Forgot_email)
+
+WebUI.click(findTestObject('Forgot_objects/button_Submit'))
+
+//Code commented as this is based upon the 3 party email verification.
+/*
+WebUI.delay(2)
+
+WebUI.navigateToUrl(GlobalVariable.Reset_email_client)
+
+WebUI.waitForPageLoad(0)
+
+WebUI.delay(2)
+
+WebUI.sendKeys(findTestObject('Resetpass_objects/email_input'), GlobalVariable.Forgot_email)
+
+WebUI.sendKeys(findTestObject('Resetpass_objects/email_input'), Keys.chord(Keys.ENTER))
+
+WebUI.waitForPageLoad(0)
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Resetpass_objects/Email_client_refresh_button'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Resetpass_objects/Email_client_refresh_button'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Resetpass_objects/a_Password reset link'))
+
+WebUI.delay(2)
+
+WebUI.switchToWindowIndex('1')
+
+WebUI.delay(2)
+*/
+

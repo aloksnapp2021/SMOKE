@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the status column of a ROCI order gets highlighted in the below mentioned colours:
+Amber colour if the order has not been marked as collected 1 day after the order was supposed to be collected
+Red colour if the order has not been marked as collected 3 days after the order was supposed to be collected</description>
+   <name>ST1-TC058</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>a849a07e-428b-4fe6-9bab-875c796c2e8c</testCaseGuid>
+</TestCaseEntity>

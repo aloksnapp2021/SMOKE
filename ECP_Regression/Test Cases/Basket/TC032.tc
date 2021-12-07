@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the logic for Age restricted, Body Panel, BFPO is working as expected</description>
+   <name>TC032</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>2ff65575-39d4-4261-9c80-1c2aa35fe78d</testCaseGuid>
+</TestCaseEntity>

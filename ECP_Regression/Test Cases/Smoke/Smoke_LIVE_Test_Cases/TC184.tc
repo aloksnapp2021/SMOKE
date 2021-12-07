@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate user is able to view the link &quot;Track Your Order&quot; under the ‘My Account’</description>
+   <name>TC184</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>2ec682e9-4554-4c18-a001-1f62fcd6c675</testCaseGuid>
+</TestCaseEntity>

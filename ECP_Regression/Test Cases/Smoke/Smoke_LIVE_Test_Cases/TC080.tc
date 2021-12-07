@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Cabin Filter category page navigation</description>
+   <name>TC080</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>bfee0db9-4bca-4b16-bcd7-854225179342</testCaseGuid>
+</TestCaseEntity>

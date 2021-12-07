@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case will be used to navigate to login page.</description>
+   <name>Login_Base_Class</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0859c02-9f14-4a39-9a29-b1d05b9366cf</testCaseGuid>
+</TestCaseEntity>

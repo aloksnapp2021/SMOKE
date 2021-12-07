@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Shock Absorber category page navigation</description>
+   <name>TC079</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>a2c7f06b-14b8-4499-abfc-bef5bfca9284</testCaseGuid>
+</TestCaseEntity>

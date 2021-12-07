@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the text &quot;international delivery&quot; will be a hyperlink</description>
+   <name>TC023</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e6ab6c85-2478-4b54-b891-8a1344709324</testCaseGuid>
+</TestCaseEntity>

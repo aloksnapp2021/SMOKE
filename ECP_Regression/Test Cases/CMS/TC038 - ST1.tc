@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user is able to open change password of a front end user page</description>
+   <name>TC038 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>4c7767d4-d140-4753-87bf-d798ebb97c5f</testCaseGuid>
+</TestCaseEntity>

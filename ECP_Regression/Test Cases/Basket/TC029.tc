@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that in case user has provided the postcode and click on Change postcode link user should get  &quot;Looking for International Delivery&quot; button</description>
+   <name>TC029</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>ff5a91ea-7a79-41e9-ae61-939f9c754b56</testCaseGuid>
+</TestCaseEntity>

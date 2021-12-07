@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate &quot;Your recently viewed items&quot; on PDP and User is able to add Product from this section</description>
+   <name>TC035</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>8e301221-9e41-46c7-aeca-6175a16f3af5</testCaseGuid>
+</TestCaseEntity>

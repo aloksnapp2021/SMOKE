@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>UK website URL - ST1</description>
+      <initValue>'https://lte-uat.ecpplatform.com/'</initValue>
+      <name>URL_ST1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://st3-ecp.ecpplatform.com/'</initValue>
+      <name>URL_ST3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>LIVE UK site</description>
+      <initValue>'https://www.eurocarparts.com'</initValue>
+      <name>URL_LIVE</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://cmsv3.ecpplatform.net/login.php'</initValue>
+      <name>CMS_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>CMS URL ST1</description>
+      <initValue>'http://cms-lte-uat.ecpplatform.net/login.php'</initValue>
+      <name>CMS_URL_ST1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>To  switch the instance use: LIVE/DR/ST1/ST2/ST3/ST4</description>
+      <initValue>'LIVE'</initValue>
+      <name>Instance</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'admin'</initValue>
+      <name>Auth_username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'g21Rlq7I0EvGjf'</initValue>
+      <name>Auth_password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'d0we0JQQKL6UUL'</initValue>
+      <name>Auth_Password_ST3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Deigo'</initValue>
+      <name>Reg_fname</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Costa'</initValue>
+      <name>Reg_lname</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'costans@yopmail.com'</initValue>
+      <name>Reg_email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Tester@123'</initValue>
+      <name>Reg_pass</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Tester@123'</initValue>
+      <name>Reg_cpass</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ecptest@netsolutions.com'</initValue>
+      <name>Login_email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Tester123@4'</initValue>
+      <name>Login_password_LIVE</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'costans@yopmail.com'</initValue>
+      <name>Forgot_email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ecptestdummy@netsolutions.com'</initValue>
+      <name>Forgot_invalid_email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'9998887776'</initValue>
+      <name>PhoneNo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://gmail.com'</initValue>
+      <name>Email_client</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://yopmail.com/en/'</initValue>
+      <name>Reset_email_client</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Tester@123'</initValue>
+      <name>Reset_password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ecpcarpartsns@yopmail.com'</initValue>
+      <name>Editprofile_newemail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>52177195_old</description>
+      <initValue>'444770631'</initValue>
+      <name>ProductNo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'542770091'</initValue>
+      <name>ProductNo2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'521771432'</initValue>
+      <name>ProductNo3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>This is the car parts category product.</description>
+      <initValue>'502440566'</initValue>
+      <name>ProductNo4</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>FIFM enabled for LR53ETT</description>
+      <initValue>'444770120'</initValue>
+      <name>ProductNo5</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'481770136'</initValue>
+      <name>Product4_FIFM_Disabled</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'545772281'</initValue>
+      <name>ProductNonHWD</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Bulb product.</description>
+      <initValue>'481770136'</initValue>
+      <name>ProductNonHWD2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'485771070'</initValue>
+      <name>International_Del_Product_Code</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'YY64UXX'</initValue>
+      <name>REG</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'LR53ETT'</initValue>
+      <name>REG_2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>LIVE valid promocode.</description>
+      <initValue>'MID60'</initValue>
+      <name>PromoCode_Valid</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'PO61US'</initValue>
+      <name>Postcode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'NW10 0UX'</initValue>
+      <name>Postcode2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'4111111111111111'</initValue>
+      <name>Credit_No</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'03/23'</initValue>
+      <name>Exp_date</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'123'</initValue>
+      <name>CVV</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1234'</initValue>
+      <name>Security_code</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>This is a LIVE track order number.</description>
+      <initValue>'111-00017972927'</initValue>
+      <name>Valid_track_order_number</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'SR2 9JE'</initValue>
+      <name>Valid_track_order_postcode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'111-00004270890'</initValue>
+      <name>Invalid_track_order_numb</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://lte-uat.ecpplatform.com/secure/collection-checkout'</initValue>
+      <name>ST1_POCI_ROCI_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'nsitest'</initValue>
+      <name>CMS_login_username_LIVE</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'admin123#'</initValue>
+      <name>CMS_login_password_LIVE</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>LIVE: http://adminv3.ecpplatform.net/login.php  OR ST1:http://admin-lte-uat.ecpplatform.net/login.php</description>
+      <initValue>'http://adminv3.ecpplatform.net/login.php'</initValue>
+      <name>Admin_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'lalits'</initValue>
+      <name>Admin_username_ST1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'admin123#'</initValue>
+      <name>Admin_password_ST1_LIVE</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'nsitest'</initValue>
+      <name>Admin_username_LIVE</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>CMS login username for ST1</description>
+      <initValue>'lalits'</initValue>
+      <name>CMS_login_username_ST1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://sopv3.ecpplatform.net/login'</initValue>
+      <name>SOP_URL_LIVE</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://sopv3-lte-uat.ecpplatform.net/'</initValue>
+      <name>SOP_URL_ST1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://st3-ltesopv3.ecpplatform.net/login'</initValue>
+      <name>SOP_URL_ST3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Image path for store Locator</description>
+      <initValue>'C:\\Users\\MAFIA\\Katalon Studio\\ECP_WEB - SMOKE\\image.jpg'</initValue>
+      <name>Image_path_ST1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Air Filter Product</description>
+      <initValue>'502820848'</initValue>
+      <name>ProductNo6</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>This is the Out of Stock product.</description>
+      <initValue>'104440741'</initValue>
+      <name>ProductNo7</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Surcharge product</description>
+      <initValue>'133441671'</initValue>
+      <name>ProductNo8</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>This product is used for DHL/DPD Carriages/Branch Delivery</description>
+      <initValue>'413110327'</initValue>
+      <name>DHL_DPD_Branch_Product</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>This postcode is used in the DHL/DPD carriages.</description>
+      <initValue>'LE131DE'</initValue>
+      <name>DHL_DPD_Carriages_Postcode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>CarriageURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>CarriageTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'24'</initValue>
+      <name>DPDXpath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>This product is used for body panel order.</description>
+      <initValue>'803820131'</initValue>
+      <name>BodyPanel_Product</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>LIVE Branch V3</description>
+      <initValue>'http://branchv3.ecpplatform.net/login?'</initValue>
+      <name>Branch_V3_URL_LIVE</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Login username for BranchV3 LIVE</description>
+      <initValue>'nsisupport'</initValue>
+      <name>BranchV3_LIVE_ST1_username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Login password for BranchV3 LIVE.</description>
+      <initValue>'Support123!'</initValue>
+      <name>BranchV3_LIVE_ST1_password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'52177099'</initValue>
+      <name>GroupProductCode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Aberdeen'</initValue>
+      <name>BranchName1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Dundee'</initValue>
+      <name>BranchName2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'10458001A'</initValue>
+      <name>Product6</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'SR53JG'</initValue>
+      <name>Postcode3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Bumper product</description>
+      <initValue>'822821051'</initValue>
+      <name>ProductNo9</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>SDD on ST1</description>
+      <initValue>'444771001'</initValue>
+      <name>ProductNo10</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'HA90TF'</initValue>
+      <name>Postcode4</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Promo applicable product with SKU, Brand override and Cat Code applied</description>
+      <initValue>'444770630'</initValue>
+      <name>ProductNo11</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://admin-lte-uat.ecpplatform.net/login.php'</initValue>
+      <name>Admin_URL_ST1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ECP Test'</initValue>
+      <name>Contact_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ecptest@netsolutions.com'</initValue>
+      <name>Contact_email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'This is the test message from the testing team. Please do not take any action or reply on this.'</initValue>
+      <name>Contact_message</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>This is a Age restricted NON HWD product.</description>
+      <initValue>'553772360'</initValue>
+      <name>Age_restricted_NonHWD</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>This post code is used to test the BFPO scenarios on the basket page.</description>
+      <initValue>'BF13AA'</initValue>
+      <name>BFPO_Post_Code</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Product used for Mask brands.</description>
+      <initValue>'521772351'</initValue>
+      <name>GroupProductCode2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>This URL is for the DR instance.</description>
+      <initValue>'https://www.028a3cd3e231.eurocarparts.com/'</initValue>
+      <name>DR_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Values can be LIVE/ST1/ST2/ST3/ST4/DR. This is used to switch the CMS instances. </description>
+      <initValue>'ST1'</initValue>
+      <name>CMS_Instance</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>CMS URL for ST2 instance.</description>
+      <initValue>'http://st2-ltecms.ecpplatform.net/login.php'</initValue>
+      <name>CMS_URL_ST2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>CMS URL for ST3 instance.</description>
+      <initValue>'http://st3-ltecms.ecpplatform.net/login.php'</initValue>
+      <name>CMS_URL_ST3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>CMS URL for ST4 instance.</description>
+      <initValue>'http://st4-ltecms.ecpplatform.net/login.php'</initValue>
+      <name>CMS_URL_ST4</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>CMS URL for the DR instance.</description>
+      <initValue>'http://cmsv3.ecpplatform.net/login.php'</initValue>
+      <name>CMS_URL_DR</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Values can be LIVE/ST1/ST2/ST3/ST4/DR. This is used to switch the CMS instances. </description>
+      <initValue>'ST1'</initValue>
+      <name>SOPv3_Instance</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>This URL is used for SOP ST2 instance.</description>
+      <initValue>'http://st2-ltesopv3.ecpplatform.net/login'</initValue>
+      <name>SOP_URL_ST2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>This URL is used for SOP ST3 instance.</description>
+      <initValue>'http://st3-ltesopv3.ecpplatform.net/login'</initValue>
+      <name>SOP_URL_ST3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>This URL is used for SOP ST4 instance.</description>
+      <initValue>'http://st4-ltesopv3.ecpplatform.net/login'</initValue>
+      <name>SOP_URL_ST4</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>This URL is used for SOP DR instance.</description>
+      <initValue>'http://sopv3.ecpplatform.net/login'</initValue>
+      <name>SOP_URL_DR</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Values can be LIVE/ST1/ST2/ST3/ST4/DR. This is used to switch the CMS instances. </description>
+      <initValue>'ST1'</initValue>
+      <name>Adminv3_Instance</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Admin ST2 instance.</description>
+      <initValue>'http://st2-lteadmin.ecpplatform.net/login.php'</initValue>
+      <name>Admin_URL_ST2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Admin ST3 instance.</description>
+      <initValue>'http://st3-lteadmin.ecpplatform.net/login.php'</initValue>
+      <name>Admin_URL_ST3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Admin ST4 instance.</description>
+      <initValue>'http://st4-lteadmin.ecpplatform.net/login.php'</initValue>
+      <name>Admin_URL_ST4</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Admin DR instance.</description>
+      <initValue>'http://adminv3.ecpplatform.net/login.php'</initValue>
+      <name>Admin_URL_DR</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Values can be LIVE/ST1/ST2/ST3/ST4/DR. This is used to switch the CMS instances. </description>
+      <initValue>'ST1'</initValue>
+      <name>BranchV3_Instance</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>ST1 URL BranchV3</description>
+      <initValue>'http://branchv3-lte-uat.ecpplatform.net/login?'</initValue>
+      <name>Branch_V3_URL_ST1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>ST2 URL BranchV3</description>
+      <initValue>'http://st2-branchv3.ecpplatform.net/login?next=%2F%3F'</initValue>
+      <name>Branch_V3_URL_ST2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>ST3 URL BranchV3</description>
+      <initValue>'http://st3-branchv3.ecpplatform.net/login/loggedout'</initValue>
+      <name>Branch_V3_URL_ST3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>ST4 URL BranchV3</description>
+      <initValue>'http://st4-branchv3.ecpplatform.net/login/loggedout'</initValue>
+      <name>Branch_V3_URL_ST4</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>DR URL BranchV3</description>
+      <initValue>'http://branchv3.ecpplatform.net/login?'</initValue>
+      <name>Branch_V3_URL_DR</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://sandbox.braintreegateway.com/login'</initValue>
+      <name>Braintree_Sandbox_URL_ST1_ST3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ecpBTSandbox'</initValue>
+      <name>Braintree_Username_ST1_ST3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'epcTEL01!'</initValue>
+      <name>Braintree_Password_ST1_ST3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'er.lalitsingla_pr@gmail.com'</initValue>
+      <name>Paypal_Username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'987654321'</initValue>
+      <name>Paypal_Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://st3-lteadmin.ecpplatform.net/login.php'</initValue>
+      <name>Admin_Url_ST3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>This product code is available for CNC only on ST1.</description>
+      <initValue>'481770096'</initValue>
+      <name>CNC_Product_ST1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>This product code is available for HWD for ST1.</description>
+      <initValue>'444771001'</initValue>
+      <name>HWD_Product_ST1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>This is invaild email id</description>
+      <initValue>'ecptest@netso'</initValue>
+      <name>Invaild_Email_Id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>This is invaild credit card number</description>
+      <initValue>'2334 4455 6334 5443'</initValue>
+      <name>Invaild_Credit_Card_Number</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>This promocode is used for SOPV3 test cases in Promocode module for Lower environments.</description>
+      <initValue>'OctoberOff'</initValue>
+      <name>Promocode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>This is the 2 product used for body panel.</description>
+      <initValue>'803441291'</initValue>
+      <name>BodyPanel_Product_2</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

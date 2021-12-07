@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify &quot;Brain Tree&quot; payment gateway</description>
+   <name>TC005 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>b67e7185-c9a3-4858-a736-224681ec4321</testCaseGuid>
+</TestCaseEntity>

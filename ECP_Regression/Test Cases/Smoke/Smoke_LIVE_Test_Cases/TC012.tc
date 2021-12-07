@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that after the user performs a new search then on the product listing page there is a section showing &quot;Refine By Category&quot; so that the user can also refine his search.</description>
+   <name>TC012</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>2e800284-542a-4b32-98d8-7efebcbaf75f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Same Day Delivery functionality on shopping Checkout Page.</description>
+   <name>TC019</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>499c58b7-bd89-4671-86e7-5cbac329e14d</testCaseGuid>
+</TestCaseEntity>

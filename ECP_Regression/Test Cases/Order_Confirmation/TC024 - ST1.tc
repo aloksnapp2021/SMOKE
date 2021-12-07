@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Order details for FIFM order on order confirmation:
+1. Title
+2. Product Code
+3. Unit Price
+4. Total Price
+5. Quantity</description>
+   <name>TC024 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>b03e5087-ab43-477e-9645-f93fb3187312</testCaseGuid>
+</TestCaseEntity>

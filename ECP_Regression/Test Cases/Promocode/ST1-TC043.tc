@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the customer is able to place the ROCI order with promotion and the discounted price is correctly reflecting</description>
+   <name>ST1-TC043</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>4f29d903-0bfa-49ee-881a-bdba2468b3d2</testCaseGuid>
+</TestCaseEntity>

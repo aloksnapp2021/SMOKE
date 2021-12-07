@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check the availability of validation alert with invalid otp then submit</description>
+   <name>TC016-ST1</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>7d1c59a6-6fa0-4eab-acc7-d1258dd9fb57</testCaseGuid>
+</TestCaseEntity>

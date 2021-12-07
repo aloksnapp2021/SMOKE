@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>SOP Order processing - HWD</description>
+   <name>TC189 - ST1</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>a8e5d73c-4ab5-45f1-a7e4-5921383fd8ea</testCaseGuid>
+</TestCaseEntity>

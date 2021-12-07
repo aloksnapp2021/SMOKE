@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that incase any of the product is not available for international delivery, then the international carriages will not be displayed and the existing validation message will be displayed under &quot;&quot;Delivery Options&quot;&quot; section:
+
+Sorry, One or more item(s) in your basket is not available for delivery.</description>
+   <name>TC025</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>0d27ecad-f335-406a-bc1c-2614a8edc368</testCaseGuid>
+</TestCaseEntity>

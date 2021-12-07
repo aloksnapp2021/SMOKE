@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Change Password button  functionality</description>
+   <name>TC020</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>c20e83bd-8d36-4231-8004-c573965feb43</testCaseGuid>
+</TestCaseEntity>

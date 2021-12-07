@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the &quot;Update&quot;  button functionality</description>
+   <name>TC207</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>fc4da7e7-b66b-4587-9547-192e67f3d9e5</testCaseGuid>
+</TestCaseEntity>

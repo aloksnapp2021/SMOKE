@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the existing validations is working as expected under &quot;Contact Details&quot; section.</description>
+   <name>TC051</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>d153eb31-cef8-4e82-8499-8c8004d5aa43</testCaseGuid>
+</TestCaseEntity>

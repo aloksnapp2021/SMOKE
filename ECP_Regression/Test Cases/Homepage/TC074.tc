@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that the user is getting redirected to the correct page on click of the Tier2 category links.</description>
+   <name>TC074</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>63bf890e-baed-4939-835d-e394a98db9a2</testCaseGuid>
+</TestCaseEntity>

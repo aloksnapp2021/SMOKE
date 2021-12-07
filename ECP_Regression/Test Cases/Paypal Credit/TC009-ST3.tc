@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that for the customers whose cart is over 99 GBP, Paypal credit option appear in Delivery Option in Checkout page</description>
+   <name>TC009-ST3</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>a65c5d5d-027a-457d-92bd-92b5b1f84049</testCaseGuid>
+</TestCaseEntity>

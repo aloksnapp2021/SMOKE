@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Shopping Checkout functionality if quantity is maximum</description>
+   <name>TC006</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>7d5e31f2-95f3-425c-9c12-c4a670d54b87</testCaseGuid>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>b1164721-e631-4af2-b264-326b78649217</id>
+      <masked>false</masked>
+      <name>pricevalue_initial</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0bf61c53-a873-4771-a718-65b6cbee27bd</id>
+      <masked>false</masked>
+      <name>pricevalue_updated</name>
+   </variable>
+</TestCaseEntity>

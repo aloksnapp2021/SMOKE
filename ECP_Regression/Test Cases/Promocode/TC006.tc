@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that an &quot;Autopopulate Promo code&quot; checkbox is required at the bottom of the page and should be unticked upon creating.</description>
+   <name>TC006</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>7aad6bd6-5e72-4510-ae8d-b40fb7b975ae</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the image zoom functionality for product Image.</description>
+   <name>TC040</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>de3d9e7a-32f1-4f6f-9310-c8e17ad01860</testCaseGuid>
+</TestCaseEntity>

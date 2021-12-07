@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify order discount for HWD Order</description>
+   <name>TC119</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>0637be76-02ca-4eef-9e21-5febab659320</testCaseGuid>
+</TestCaseEntity>

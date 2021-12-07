@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the master autopopulate promo should be applied at the time the customer lands on the frontend website.</description>
+   <name>TC026</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>df689107-2a60-410f-96b8-065e19679794</testCaseGuid>
+</TestCaseEntity>

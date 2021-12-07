@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that a unique url is needed for removing the autopoulate from the website for the marketing purpose.</description>
+   <name>TC038</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>f5e6cd04-6de7-40c8-8dc6-063471f21725</testCaseGuid>
+</TestCaseEntity>

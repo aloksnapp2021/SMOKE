@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case will be used to navigate the user to the product details page without the REG.</description>
+   <name>TC024</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>f4b75d69-fba5-4a07-a58f-26658be04ad1</testCaseGuid>
+</TestCaseEntity>

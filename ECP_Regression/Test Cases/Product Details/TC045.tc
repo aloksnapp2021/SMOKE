@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Valdiate user will get below message on Choose a store to collect page. 
+
+
+&quot;Stock availability will be confirmed when reservation completed in the checkout.&quot;</description>
+   <name>TC045</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>1998263c-28e8-49c9-b87f-754ffa6c5ca4</testCaseGuid>
+</TestCaseEntity>

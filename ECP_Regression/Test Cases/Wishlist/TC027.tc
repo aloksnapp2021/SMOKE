@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that if the user clicks on No, products added to wishlist as guest user would not be transferred to user's logged in user account</description>
+   <name>TC027</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>ae05c882-0a90-43b3-ae02-d1ee7890d446</testCaseGuid>
+</TestCaseEntity>

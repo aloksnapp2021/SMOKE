@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case will verify that the Print button is available on My Account section</description>
+   <name>TC046</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>1ffbdbba-c041-4b70-a57c-b0a4398948f7</testCaseGuid>
+</TestCaseEntity>

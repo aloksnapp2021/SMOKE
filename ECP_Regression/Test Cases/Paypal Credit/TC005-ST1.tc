@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that in SOPV3 the Payment dropdown should have the option to filter the orders for PayPal credit</description>
+   <name>TC005-ST1</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b5a7e2ae-c5fa-4e16-90ce-a26c99724b0f</testCaseGuid>
+</TestCaseEntity>

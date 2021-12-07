@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Search functionality with Brand name
+</description>
+   <name>TC009</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>1a0a915d-f402-448f-8786-3dbd06db84f5</testCaseGuid>
+</TestCaseEntity>

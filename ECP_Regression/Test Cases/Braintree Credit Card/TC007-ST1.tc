@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Braintree card with FIFM orders</description>
+   <name>TC007-ST1</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>cf7590f2-06f5-4651-8b8c-1462fb479794</testCaseGuid>
+</TestCaseEntity>

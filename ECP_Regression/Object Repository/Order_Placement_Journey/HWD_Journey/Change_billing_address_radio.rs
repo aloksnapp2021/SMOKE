@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Change_billing_address_radio</name>
+   <tag></tag>
+   <elementGuidId>d8ef8d92-4679-404a-8722-5027ba6815a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'radio']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='op12']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#slot5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='op12']</value>
+   </webElementXpaths>
+</WebElementEntity>

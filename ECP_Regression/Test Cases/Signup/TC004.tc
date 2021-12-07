@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate mandatory field validation</description>
+   <name>TC004</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>5b183bba-8c7c-49aa-a18e-6fa78fc8d537</testCaseGuid>
+   <variable>
+      <defaultValue>'Please enter valid first name'</defaultValue>
+      <description></description>
+      <id>fbf3d812-4fd5-4f4e-baf2-e440b03e5b36</id>
+      <masked>false</masked>
+      <name>Firstname_message</name>
+   </variable>
+   <variable>
+      <defaultValue>'Please enter valid surname'</defaultValue>
+      <description></description>
+      <id>067fe9f2-d03e-42ca-8753-227aae57b06f</id>
+      <masked>false</masked>
+      <name>Surname_message</name>
+   </variable>
+   <variable>
+      <defaultValue>'Please enter a valid Email address.'</defaultValue>
+      <description></description>
+      <id>11f10f34-5941-4047-99e8-cbb9f0c0e590</id>
+      <masked>false</masked>
+      <name>Email_address_message</name>
+   </variable>
+   <variable>
+      <defaultValue>'Please enter valid password.'</defaultValue>
+      <description></description>
+      <id>c0cb2e2d-5e64-4fc9-afcf-ba32953126bc</id>
+      <masked>false</masked>
+      <name>Password_message</name>
+   </variable>
+   <variable>
+      <defaultValue>'The passwords entered do not match. Please try again.'</defaultValue>
+      <description></description>
+      <id>a8c15e92-39a0-47e5-916e-330e0bf2a213</id>
+      <masked>false</masked>
+      <name>Confirm_password_message</name>
+   </variable>
+</TestCaseEntity>

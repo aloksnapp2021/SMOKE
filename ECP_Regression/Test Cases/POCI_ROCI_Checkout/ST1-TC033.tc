@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that if Order details as input by CMS user exists in the database, clicking on &quot;Download&quot; button will download the Order XML on user's machine</description>
+   <name>ST1-TC033</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>a6f8d60f-4602-4ba1-9b3d-e67994fe9293</testCaseGuid>
+</TestCaseEntity>

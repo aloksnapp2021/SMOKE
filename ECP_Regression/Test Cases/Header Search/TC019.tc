@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Car parts Category functionality on Search result page when vehicle is not selected</description>
+   <name>TC019</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>4d1fbf58-e4d3-4df8-b83c-561e6764a9dd</testCaseGuid>
+</TestCaseEntity>

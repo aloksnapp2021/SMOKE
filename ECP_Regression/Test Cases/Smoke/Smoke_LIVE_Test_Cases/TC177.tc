@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate order placement with Paypal(Braintree)</description>
+   <name>TC177</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>b7f0d7de-d9b1-4527-8e75-6403545dd9df</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate https in url for login page.</description>
+   <name>TC047</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>4166bf9e-7cc7-4ee8-8da5-ad298975311b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8e518363-c94f-48a3-b1ae-9582224792c9</id>
+      <masked>false</masked>
+      <name>urltext</name>
+   </variable>
+</TestCaseEntity>

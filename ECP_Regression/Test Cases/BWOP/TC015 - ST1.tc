@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify in Collection  order if promo applied is visible</description>
+   <name>TC015 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>c0dd3b39-dfec-452e-9bf4-254b7bfa3977</testCaseGuid>
+</TestCaseEntity>

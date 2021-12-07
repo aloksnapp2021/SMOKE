@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate &quot;You Might Like&quot; Section on basket page</description>
+   <name>TC046</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>63cab531-b846-40e2-9f55-ec67517286af</testCaseGuid>
+</TestCaseEntity>

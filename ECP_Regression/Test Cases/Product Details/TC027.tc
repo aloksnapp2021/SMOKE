@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the functionality of add to basket with all the delivery options.</description>
+   <name>TC027</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>a71ffeec-de95-4614-9a0e-bbc4acc2de90</testCaseGuid>
+</TestCaseEntity>

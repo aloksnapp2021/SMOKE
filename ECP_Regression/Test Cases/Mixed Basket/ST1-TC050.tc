@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Order Summary</description>
+   <name>ST1-TC050</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>27567b97-665e-4855-b218-7e990ea6e1c9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify filter by site in collection orders (UK/CP4L)</description>
+   <name>TC203</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>a3ddda82-5052-4dae-8c73-92d53f6e95f0</testCaseGuid>
+</TestCaseEntity>

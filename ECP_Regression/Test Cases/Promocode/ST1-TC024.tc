@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the autopoulate changes should enable or disable using the same module present in the Admin.</description>
+   <name>ST1-TC024</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>d8a9249e-b10b-4bdb-a051-a958624544f3</testCaseGuid>
+</TestCaseEntity>

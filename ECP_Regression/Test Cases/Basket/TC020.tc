@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Click &amp; Collect functionality on shopping Checkout Page</description>
+   <name>TC020</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>edd3a069-df7f-4262-90a4-cf8b842d84b4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the message for added Product on basket page in below Cases
+
+Weekdays before 3 PM
+Stock Availability
+Branch  = Yes
+Message
+&quot;&quot;Same Day Delivery
+(order before 3pm)&quot;&quot;
+-------------------------
+Saturday 2 PM
+Stock Availability
+Branch  = Yes
+Message
+&quot;&quot;Same Day Delivery
+(order before 2pm)&quot;&quot;
+------------------------
+Weekdays After 3 PM
+Stock Availability
+Branch  = Yes
+Message
+&quot;&quot;Next Day 
+Delivery available&quot;&quot;
+-------------------------
+Weekdays before 3 PM
+Stock Availability
+Branch  = NO
+T2 = Yes
+Message
+&quot;&quot;Next Day Delivery
+(order before 3pm)&quot;&quot;
+-------------------------
+Saturday before 2 PM
+Stock Availability
+Branch  = NO
+T2 = Yes
+Message
+&quot;&quot;Next Day Delivery
+(order before 2pm)&quot;&quot;
+-------------------------
+Weekdays After 3 PM
+Stock Availability
+Branch  = NO
+T2 = Yes
+Message
+&quot;&quot;UKEE Delivery for 
+orders over £15&quot;&quot;
+-------------------------
+Saturday After 2 PM
+Stock Availability
+Branch  = NO
+T2 = Yes
+Message
+&quot;&quot;UKEE Delivery for 
+orders over £15&quot;&quot;
+-------------------------
+Weekdays before 3 PM
+Stock Availability
+Branch  = NO
+T2 = NO
+T1 = Yes
+Message
+&quot;&quot;Next Day Delivery
+(order before 3pm)&quot;&quot;
+-------------------------
+Weekdays After 3 PM
+Stock Availability
+Branch  = NO
+T2 = NO
+T1 = Yes
+Message
+&quot;&quot;UKEE Delivery for 
+orders over £15&quot;&quot;
+-------------------------
+Saturday before 2 PM
+Stock Availability
+Branch  = NO
+T2 = NO
+T1 = Yes
+Message
+&quot;&quot;Next Day Delivery
+(order before 2pm)&quot;&quot;
+-------------------------
+Saturday after 2 PM
+Stock Availability
+Branch  = NO
+T2 = NO
+T1 = Yes
+Message
+&quot;&quot;UKEE Delivery for 
+orders over £15&quot;&quot;
+-------------------------
+Add days
+Stock Availability
+Branch  = NO
+T2 = NO
+T1 = NO
+Message
+&quot;&quot;UKEE Delivery for 
+orders over £15&quot;&quot;
+-------------------------
+Add days
+Stock Availability
+Branch  = NO
+T2 = NO
+T1 = NO
+Company Stock = No
+Message
+&quot;&quot;UKEE Delivery for 
+orders over £15&quot;&quot;
+-------------------------
+BP Product
+Stock Availability
+Branch = Yes
+Message
+&quot;&quot;UKEE Delivery for 
+orders over £15&quot;&quot;
+-------------------------
+B&amp;H Product
+Stock Availability
+Only in T1
+Message
+&quot;&quot;Depends upon the order date. 
+No change in that&quot;&quot;
+-------------------------
+B&amp;H Product
+Stock Availability
+Only in T1
+Message
+&quot;&quot;Depends upon the order date. 
+No change in that&quot;&quot;
+-------------------------
+Any Day
+Stock Availability
+Branch = Yes
+Message
+&quot;&quot;UKEE Delivery for 
+orders over £15&quot;&quot;</description>
+   <name>TC047</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>654ef10c-5a48-4640-82b0-0aaa4af72c9e</testCaseGuid>
+</TestCaseEntity>

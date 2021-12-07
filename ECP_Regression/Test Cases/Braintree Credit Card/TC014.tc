@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the Invalid card detail then proceed to payment, it should not be successfully Proceed to payment.</description>
+   <name>TC014</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>ebf53b11-6d45-49f8-90c2-9af44172d335</testCaseGuid>
+</TestCaseEntity>

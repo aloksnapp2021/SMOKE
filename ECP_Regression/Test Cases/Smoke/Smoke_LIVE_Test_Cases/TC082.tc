@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Coil Spring category page navigation</description>
+   <name>TC082</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>54fea1cc-2e1c-452e-b94c-c19b7c9935e9</testCaseGuid>
+</TestCaseEntity>

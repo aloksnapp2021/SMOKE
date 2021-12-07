@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Store Locator page</description>
+   <name>TC044</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>53f418c6-4d7e-4234-aeb8-1526fc57695c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>33002479-1389-4a47-a1a3-545b5874f545</id>
+      <masked>false</masked>
+      <name>storetitle</name>
+   </variable>
+</TestCaseEntity>

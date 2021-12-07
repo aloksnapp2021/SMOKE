@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify country dropdown</description>
+   <name>TC089</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>9e02b834-2c77-45c8-bb65-687ccb94f281</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3ad45216-025a-4e51-be55-bd7c48cb5519</id>
+      <masked>false</masked>
+      <name>dropdownvalues</name>
+   </variable>
+</TestCaseEntity>

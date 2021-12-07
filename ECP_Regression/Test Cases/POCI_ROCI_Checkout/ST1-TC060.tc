@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that a tooltip is displayed on hover on corresponding order row on order listing page. Tooltip to display the following:
+ 
+ Order Ref
+ Order Total
+ Customer Email
+ Branch( name of branch from where collection will be done)</description>
+   <name>ST1-TC060</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>69c9fcda-61ac-43c9-86f0-86e64d2a07d2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Check the validation alert is properly displaying when invalid expiry date</description>
+   <name>TC020</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b9454eee-8a2b-4cd4-881b-ded6d1e38b00</testCaseGuid>
+</TestCaseEntity>

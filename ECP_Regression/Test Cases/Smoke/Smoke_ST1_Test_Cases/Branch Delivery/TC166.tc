@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Branch Delivery carriages if  the order is to be placed on Wednesday before 4 PM
+</description>
+   <name>TC166</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a255617f-bec8-475a-9599-fb11a8e8f126</testCaseGuid>
+</TestCaseEntity>

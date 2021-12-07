@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Create Account functionality with valid value</description>
+   <name>TC017</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>0d1a9904-dc8c-4632-b8bf-fd205c64f8de</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>224d565a-cc2e-416a-b970-5f4e234801ec</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

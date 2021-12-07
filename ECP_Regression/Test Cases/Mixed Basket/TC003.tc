@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Shopping cart functionality if quantity is decreased</description>
+   <name>TC003</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>ac6d6f71-af24-4c52-a344-c16054e7fd9a</testCaseGuid>
+</TestCaseEntity>

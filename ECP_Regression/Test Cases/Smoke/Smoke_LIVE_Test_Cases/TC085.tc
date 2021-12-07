@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Exhaust System category page navigation</description>
+   <name>TC085</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>b6dc3dde-e309-4382-8a75-832abb70ef09</testCaseGuid>
+</TestCaseEntity>

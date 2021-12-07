@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Shopping Checkout functionality if quantity is decrease</description>
+   <name>TC034</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>e1f70015-8221-4405-a0fb-32b7aee34bc3</testCaseGuid>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>a1d20a8e-f0ec-4502-941d-80ae58f5e261</id>
+      <masked>false</masked>
+      <name>pricevalue_initial</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>14160d6b-cff3-48ec-9366-f4b700637c22</id>
+      <masked>false</masked>
+      <name>pricevalue_initial_final</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>2935702d-5d33-4997-99c5-b988bd5e1173</id>
+      <masked>false</masked>
+      <name>pricevalue_final</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>19c36e52-9a9a-4704-bb85-33be4af645f9</id>
+      <masked>false</masked>
+      <name>pricevalue_final_parsed</name>
+   </variable>
+</TestCaseEntity>

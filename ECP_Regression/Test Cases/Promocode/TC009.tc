@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that by selecting the ‘Countdown Timer’ tab you will a replica form of the existing Countdown Timer page will be displayed under the countdown timer tab but with reduced fields. (remove ‘Site Name', ‘Promo Code’, 'Start &amp; End Date’)</description>
+   <name>TC009</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>339fb187-3b25-4b2f-b140-522014143672</testCaseGuid>
+</TestCaseEntity>

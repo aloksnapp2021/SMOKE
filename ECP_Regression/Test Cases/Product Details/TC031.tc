@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate International Delivery availability on PDP in case Product is eligible of international or not</description>
+   <name>TC031</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>ed4c93a9-f490-4ff9-a38e-c3ec50cc5963</testCaseGuid>
+</TestCaseEntity>

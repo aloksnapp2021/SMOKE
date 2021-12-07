@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify validation error message when the user leaves the contact details field empty in case of the Guest checkout.</description>
+   <name>TC098</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>8ebd2706-70af-4855-a8f0-e779e9233db1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case will be used as a Base class for the Branch delivery test cases. DO NOT INCLUDE THIS TEST CASE IN THE TEST SUITE.</description>
+   <name>Base Class (Branch Delivery)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7e05f5e-ce87-407e-81ff-2376d782fd02</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>wrongpassword_error</name>
+   <tag></tag>
+   <elementGuidId>a4bb074f-1ee4-4c06-ba67-0ded7178b88d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PW</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PW']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='PW']</value>
+   </webElementXpaths>
+</WebElementEntity>

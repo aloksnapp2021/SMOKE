@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user is able to add new multiple promo code</description>
+   <name>TC015 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>1cfbcf2b-afcd-4603-8634-cd8089659ba6</testCaseGuid>
+</TestCaseEntity>

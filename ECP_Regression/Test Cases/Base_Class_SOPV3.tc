@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case will be used as a base class for the lower environments.</description>
+   <name>Base_Class_SOPV3</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>390462ac-f621-4512-9b82-a3451261b754</testCaseGuid>
+</TestCaseEntity>

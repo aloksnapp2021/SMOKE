@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the items/products added by user to the basket are getting displayed along with the following details:
+
+1. XX Items,  XX is the number of items added to Basket
+2. Product Thumbnail
+3. Product Title
+4. Product Code
+5. Surcharge text (Wherever applicable)
+6. Quantity Selected
+7. Unit Price (Surcharge amount will also be displayed additionally wherever applicable)
+8. Total Price
+9. Sub-Total
+10. Discount
+11. Total (inc VAT)</description>
+   <name>TC014</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>f5033665-a498-42cc-b330-91e1f073925a</testCaseGuid>
+</TestCaseEntity>

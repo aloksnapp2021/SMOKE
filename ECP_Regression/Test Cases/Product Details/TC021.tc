@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Reg and MVL bar is coming up in case we landed on PDP which is car parts</description>
+   <name>TC021</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>55f89e1e-1af6-46c6-be4f-1b00975eaf07</testCaseGuid>
+</TestCaseEntity>

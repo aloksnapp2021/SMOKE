@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Sign-up page is loading</description>
+   <name>TC206</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>b00bacfa-689e-48a6-b808-f0e9192d02d6</testCaseGuid>
+</TestCaseEntity>

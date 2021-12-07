@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate user can create new user account for checkout</description>
+   <name>ST1-TC035</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e4845a75-da87-4830-86a1-d7ffe8442f77</testCaseGuid>
+</TestCaseEntity>

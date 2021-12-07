@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate response of refund in SOPv3</description>
+   <name>TC008-ST1</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>a5d5bb5f-dc26-47f9-91aa-e3c9532c2bd4</testCaseGuid>
+</TestCaseEntity>

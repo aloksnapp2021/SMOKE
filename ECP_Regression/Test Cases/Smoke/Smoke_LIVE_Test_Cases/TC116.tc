@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that user is not able to add quantity of a product into cart more than limit at PDP page</description>
+   <name>TC116</name>
+   <tag>Max Quantity</tag>
+   <comment></comment>
+   <testCaseGuid>cf77c286-de17-42a6-96d0-394edc162a63</testCaseGuid>
+</TestCaseEntity>

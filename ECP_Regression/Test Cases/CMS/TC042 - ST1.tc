@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user is able to open add new department page</description>
+   <name>TC042 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>a0f3a3d4-cd1f-446f-b83f-9972cf1e795c</testCaseGuid>
+</TestCaseEntity>

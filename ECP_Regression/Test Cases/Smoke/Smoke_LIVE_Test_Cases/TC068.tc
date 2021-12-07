@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Brake Pads category page navigation</description>
+   <name>TC068</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>b93422be-97f8-4447-825c-487c8d48d611</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the Royal mail carriage if all the dimension of product(in basket) is less  Volume &lt;= 152,500 (61x50x50)</description>
+   <name>TC157</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>af37d50b-2355-437e-bd3d-5a820a7552df</testCaseGuid>
+</TestCaseEntity>

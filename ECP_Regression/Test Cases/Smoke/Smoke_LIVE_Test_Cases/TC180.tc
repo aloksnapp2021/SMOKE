@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Braintree card(Braintree) option in the Admin</description>
+   <name>TC180</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>0422e744-10b9-42bc-b66a-eb0ae2463faf</testCaseGuid>
+</TestCaseEntity>

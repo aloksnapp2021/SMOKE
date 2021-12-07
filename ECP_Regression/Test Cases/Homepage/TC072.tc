@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Banner redirection link functionality UK home page</description>
+   <name>TC072</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>f015c7ae-59eb-4fcb-90b8-601d134ae5f9</testCaseGuid>
+</TestCaseEntity>

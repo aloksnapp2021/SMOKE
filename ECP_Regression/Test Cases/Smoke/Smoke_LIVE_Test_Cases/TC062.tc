@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Tier 1 Accessories and Car Care product listing page navigation</description>
+   <name>TC062</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8fe53a3-c6d9-4fc2-881e-825e680517b5</testCaseGuid>
+</TestCaseEntity>

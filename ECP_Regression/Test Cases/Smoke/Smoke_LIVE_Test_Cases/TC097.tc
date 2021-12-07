@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that surcharge amount shows for surcharge applicable products at PDP page</description>
+   <name>TC097</name>
+   <tag>Surcharge</tag>
+   <comment></comment>
+   <testCaseGuid>747daf33-bd56-48be-8181-644000f19392</testCaseGuid>
+</TestCaseEntity>

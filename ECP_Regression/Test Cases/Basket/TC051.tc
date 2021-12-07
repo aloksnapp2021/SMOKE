@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that stock check is happening on basket page for FIFM eligible products i.e.,if there is stock available in either T1 or T2 then only product will be considered as eligible for FIFM</description>
+   <name>TC051</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>cf7cece5-b51f-4414-9618-cb0b9071958c</testCaseGuid>
+</TestCaseEntity>

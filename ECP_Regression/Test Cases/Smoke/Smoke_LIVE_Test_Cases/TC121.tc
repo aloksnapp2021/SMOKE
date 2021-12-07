@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that &quot;This product is temporarily unavailable&quot; text is showing for a product when stock is not available</description>
+   <name>TC121</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>eaa20c28-d42d-43c6-98b4-23eaabab0fdf</testCaseGuid>
+</TestCaseEntity>

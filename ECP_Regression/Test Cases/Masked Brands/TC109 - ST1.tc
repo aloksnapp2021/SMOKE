@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify user also get clone/mask product is listed in the mini pop-up list on Reviews page for compatibility check</description>
+   <name>TC109 - ST1</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>f772b0d2-752e-4285-8626-cbc3a09260f7</testCaseGuid>
+</TestCaseEntity>

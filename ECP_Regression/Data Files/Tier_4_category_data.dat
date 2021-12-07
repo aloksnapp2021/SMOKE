@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>This file will contain all the menus related to the Tier-4.</description>
+   <name>Tier_4_category_data</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>6bb50432-be32-42c6-8a90-3c64a8bcc216</dataFileGUID>
+   <dataSourceUrl>../../../Malkeet Singh/eclipse-workspace/ECP_Regression_Git/Tier_4.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

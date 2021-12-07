@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Home_trending_engineoils</name>
+   <tag></tag>
+   <elementGuidId>5a792af2-9604-4fc3-81de-713fa83f0712</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[@class=&quot;safari11&quot;]/section[@class=&quot;container-fluid&quot;]/section[@class=&quot;container&quot;]/section[@class=&quot;row offer-banner&quot;]/div[@class=&quot;banners-imgs-cont&quot;]/div[@class=&quot;col-xs-12 col-sm-6 col-md-6 banner-box slide desktop&quot;]/a[1]/img[@class=&quot;lazy-loaded&quot;][count(. | //*[@src = 'https://images-uat.lteplatform.com/images/banners/home/ea5bec392895999a1da01084e02bf602.png' and @title = 'Engine Oils' and @alt = 'Engine Oils']) = count(//*[@src = 'https://images-uat.lteplatform.com/images/banners/home/ea5bec392895999a1da01084e02bf602.png' and @title = 'Engine Oils' and @alt = 'Engine Oils'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Engine Oils']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.lazy-loaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://images-uat.lteplatform.com/images/banners/home/ea5bec392895999a1da01084e02bf602.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-lazysrc</name>
+      <type>Main</type>
+      <value>https://images-uat.lteplatform.com/images/banners/home/ea5bec392895999a1da01084e02bf602.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Engine Oils</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Engine Oils</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lazy-loaded</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;safari11&quot;]/section[@class=&quot;container-fluid&quot;]/section[@class=&quot;container&quot;]/section[@class=&quot;row offer-banner&quot;]/div[@class=&quot;banners-imgs-cont&quot;]/div[@class=&quot;col-xs-12 col-sm-6 col-md-6 banner-box slide desktop&quot;]/a[1]/img[@class=&quot;lazy-loaded&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Engine Oils']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div/a/img</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate 6 fields on the checkout page:
+1) Country
+2) Address line 1
+3) Address line 2
+4) Town/City
+5) County
+6) Postcode</description>
+   <name>TC025</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>63e136ba-1899-4e94-909b-493c46b6d3f8</testCaseGuid>
+</TestCaseEntity>

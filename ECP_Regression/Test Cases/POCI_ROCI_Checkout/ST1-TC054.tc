@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Payment column will have any one of the following values only for POCI orders:
+ &quot;Card&quot; for orders paid via credit card
+ &quot;PayPal&quot; for orders paid via paypal</description>
+   <name>ST1-TC054</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>624b018b-41bb-4583-bc42-fc0d627b4927</testCaseGuid>
+</TestCaseEntity>

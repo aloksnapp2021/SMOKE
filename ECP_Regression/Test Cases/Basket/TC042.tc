@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify CNC in Case of BFPO Post code</description>
+   <name>TC042</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>6b6d236a-e8b9-4f0c-b15c-a7d9a837ba58</testCaseGuid>
+</TestCaseEntity>

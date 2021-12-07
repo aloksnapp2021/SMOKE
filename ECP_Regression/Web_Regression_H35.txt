@@ -1,0 +1,30 @@
+H3: PLP test cases added and errors fixed.
+H4: Safari Fixes added and reset password logic updated.
+H5: Safari debug code added.
+H6: Safari and windows errors fixed.
+H8: Edge errors fixed and code optimized.
+H9: Forgot password code updates and errors fixed.
+H10: Errors related to safari fixed.
+H11: Safari errors fixed and PDP test cases updated.
+H13: New changes in the website updated in the test cases.
+H14: Checkout test cases uploaded and errors fixed in the test run.
+H15: Checkout changes done for LIVE and ST1. Code merged and errors updated.
+H16: Milestone-2 test cases updated and errors fixed.
+H17: Code merged, Basket, promocode & mixed basket test cases added. Suite created 1_nov.
+H18: Basket test cases errors fixed for chrome and edge.
+H19: Smoke_Regression projects merged and code committed. Basket issues fixed. All suites created.
+H20: Basket issues fixed for Safari browser.
+H21: Basket issues fixed on Safari again and will execute again.
+H22: Major update including the merging of the Smoke and Regression suite. All instances also now supported.
+H23: Pushing the code and taking pull of malkeet code after he left.
+H24: Order confirmation test cases updated.
+H25: Checkout & order confirmation issues fixed for chrome and edge.
+H26: Braintree CC & Paypal test cases errors fixed.
+H27: Errors resolved for Braintree and Paypal. Wishlist test cases new added.
+H28: Errors fixed in the checkout,braintree CC & paypal, order confirmation.
+H29: Promocode LIVE issues fixed.
+H31: Promocode and other modules errors fixed.
+H32: Debug code added for Safari.
+H33: Errors fixed for Chrome and Edge for the ST1 suite.
+H34: Errors fixed in the smoke suite.
+H35: Test cases updates for the SMOKE suite.

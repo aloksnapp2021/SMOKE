@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the autopopulate functionality should work as per the new requirements.</description>
+   <name>ST1-TC023</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>d9f69c45-7bea-43d5-9b9f-09a15a2ef677</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Payment dropdown should have the option to filter the orders for Google Pay.</description>
+   <name>TC018-ST3</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>38f5a978-0d69-4d05-b11e-e0cc843dd9ee</testCaseGuid>
+</TestCaseEntity>

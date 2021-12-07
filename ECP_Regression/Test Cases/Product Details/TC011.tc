@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Home Delivery functionality when product is out of stock.</description>
+   <name>TC011</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>bf98ef52-ea25-4220-a9f3-86b830d5e18f</testCaseGuid>
+</TestCaseEntity>

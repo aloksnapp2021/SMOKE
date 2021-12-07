@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the existing functionality like line wise Product Price, Total Inc Delivery, Subtotal, Shipping &amp; Handling Charge, Total (inc VAT), Discount, etc. is working as expected (Same as before).</description>
+   <name>TC029</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>6c51db36-63e3-4fa0-9607-a8d13eec6b57</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;Verify that user is able to view collection order items in the order review section :
+ 
+ Product Thumbnail image
+ Product Title
+ Product Code
+ Quantity
+ Product Price
+ Total Price&quot;</description>
+   <name>TC001</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>d65601b8-5f66-4f70-872b-68a0cb72b245</testCaseGuid>
+</TestCaseEntity>

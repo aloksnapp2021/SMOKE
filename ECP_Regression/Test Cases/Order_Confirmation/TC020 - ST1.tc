@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that details unders section &quot;Your Click &amp; Collect items&quot; correctly listed on order confirmation page.</description>
+   <name>TC020 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>1ca7b365-021c-4b25-b109-7db0544a8d8d</testCaseGuid>
+</TestCaseEntity>

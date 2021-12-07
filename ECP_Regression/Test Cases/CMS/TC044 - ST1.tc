@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user is able to view wishlist users page</description>
+   <name>TC044 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>d17d4d2c-08f3-4711-9d9d-36c9ddcfc994</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that a validation is in place to ensure both multi and single promo using autopopulate will not be used at the same time.</description>
+   <name>ST1-TC034</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>c31a9470-bbad-4bef-b1a5-f5d2949ce597</testCaseGuid>
+</TestCaseEntity>

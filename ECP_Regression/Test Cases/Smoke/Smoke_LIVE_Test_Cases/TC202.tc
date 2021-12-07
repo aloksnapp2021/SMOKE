@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Collection order details page.</description>
+   <name>TC202</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>e64bdf2f-3bac-411c-a102-da1e542b116a</testCaseGuid>
+</TestCaseEntity>

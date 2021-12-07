@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that functionality of placing a FIFM order.</description>
+   <name>TC027</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>84d9af14-9398-4e9f-abac-2121d0ee3473</testCaseGuid>
+</TestCaseEntity>

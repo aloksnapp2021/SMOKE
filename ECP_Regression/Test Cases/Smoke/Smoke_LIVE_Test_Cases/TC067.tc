@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Brake Disc category page navigation</description>
+   <name>TC067</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>aa011110-6be5-4d22-ad66-0ef81b3b1d5a</testCaseGuid>
+</TestCaseEntity>

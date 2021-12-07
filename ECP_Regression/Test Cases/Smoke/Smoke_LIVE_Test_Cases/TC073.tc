@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Engine Oil category page navigation</description>
+   <name>TC073</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>0d776112-1b7a-4c4a-b9ff-b189f6758f4f</testCaseGuid>
+</TestCaseEntity>

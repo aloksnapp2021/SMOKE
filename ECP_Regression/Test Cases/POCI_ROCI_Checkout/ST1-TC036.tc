@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the order XML should be generated as soon as payment is sucessfully done for POCI collection order from front-end site</description>
+   <name>ST1-TC036</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>b7b51d81-5a3d-4227-88a5-07b659f81235</testCaseGuid>
+</TestCaseEntity>

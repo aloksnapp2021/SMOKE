@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that product list shows accordingly after applying price range at 3BO PLP
+</description>
+   <name>TC125</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>a3aa154a-e214-4ddf-98f0-a7a001113cf8</testCaseGuid>
+</TestCaseEntity>

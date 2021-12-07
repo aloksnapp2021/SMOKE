@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Tier 1 Performance product listing page navigation</description>
+   <name>TC065</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0b68cd2-9021-4fbf-8710-58f85a70b4dd</testCaseGuid>
+</TestCaseEntity>

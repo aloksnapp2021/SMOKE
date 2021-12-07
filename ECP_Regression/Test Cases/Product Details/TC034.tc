@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Qty Drop on PDP</description>
+   <name>TC034</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>c6f80874-5b63-4276-8912-bdc52e7bae81</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the SDD carriage on the basket page before order placement if sdd is ON and issdds column of branch is 0 in DB</description>
+   <name>TC161</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>c7926120-5a7e-4fab-8035-029a50b9f1af</testCaseGuid>
+</TestCaseEntity>

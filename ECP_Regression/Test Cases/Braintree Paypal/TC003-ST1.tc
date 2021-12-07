@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate paypal(Braintree) option in the Admin</description>
+   <name>TC003-ST1</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>f1167139-3e8e-4abf-935d-f299fa0f9128</testCaseGuid>
+</TestCaseEntity>

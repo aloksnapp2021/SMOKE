@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that user will get below buttons on Choose a store to collect page:
+1. Continue Shopping 
+2. Add to Home Delivery</description>
+   <name>TC042</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>30965862-81aa-4f73-bc14-93cc60359539</testCaseGuid>
+</TestCaseEntity>

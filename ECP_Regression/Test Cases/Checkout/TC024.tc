@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate checkbox on the checkout page</description>
+   <name>TC024</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>b74ef8fd-db5a-45b2-9c01-b36a07086d88</testCaseGuid>
+</TestCaseEntity>

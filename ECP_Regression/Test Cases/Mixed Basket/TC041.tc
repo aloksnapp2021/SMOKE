@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate all the address fields if user select yes.</description>
+   <name>TC041</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e7b15a77-d90f-4bdf-85be-7238ed9a1879</testCaseGuid>
+</TestCaseEntity>

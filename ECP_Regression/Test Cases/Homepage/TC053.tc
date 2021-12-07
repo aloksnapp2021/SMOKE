@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Car Tools Tab functionality</description>
+   <name>TC053</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>34b1ed7f-f7ae-4b61-beb2-2ea07ea9c2e4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>337af101-622f-4fa5-b721-a05beaf36a6d</id>
+      <masked>false</masked>
+      <name>toolstitle</name>
+   </variable>
+</TestCaseEntity>

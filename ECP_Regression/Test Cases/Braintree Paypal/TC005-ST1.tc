@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate payment capture in  SOPv3 (Paypal braintree)</description>
+   <name>TC005-ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>53eb8b53-596c-45a0-b5d3-309f4a3b5d7b</testCaseGuid>
+</TestCaseEntity>

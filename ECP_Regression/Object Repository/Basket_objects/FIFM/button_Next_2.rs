@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Next_2</name>
+   <tag></tag>
+   <elementGuidId>a3596be6-4c73-4e3a-b469-b65f1cd67d51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@class=&quot;review-btn&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#fit-it-me-reg-info</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Reserve</name>
+   <tag></tag>
+   <elementGuidId>ce607843-7c80-46a5-a155-7b1a669be0df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='order-place-btn'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#roci-order > div.checkout.delivery-option.delivery-detail > div.click-collect-right.fullwidth > div.detail-box.bottom-text-checkout > div.checkout-bottom > div.order-button-outer > #order-place-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@id='order-place-btn'])[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

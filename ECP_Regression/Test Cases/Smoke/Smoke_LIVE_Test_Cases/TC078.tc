@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Ignition Coil category page navigation</description>
+   <name>TC078</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>6e404c28-cd85-49df-8675-abc2bf6fd904</testCaseGuid>
+</TestCaseEntity>

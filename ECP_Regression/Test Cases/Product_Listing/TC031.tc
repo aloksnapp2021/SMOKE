@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the product listing page for Batteries page.</description>
+   <name>TC031</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>6cd2f478-71c5-4db8-8994-84710419d85c</testCaseGuid>
+</TestCaseEntity>

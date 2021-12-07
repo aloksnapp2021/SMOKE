@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that delivery options are showing after the user has entered the address</description>
+   <name>TC092</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>56d30e5a-e3fb-4c5d-bb91-cddd3a8795d6</testCaseGuid>
+</TestCaseEntity>

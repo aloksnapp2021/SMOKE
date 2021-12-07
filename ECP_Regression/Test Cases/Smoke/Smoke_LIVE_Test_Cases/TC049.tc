@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that the user is also able to enter vehicle details manually through the MVL form.</description>
+   <name>TC049</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7b4761a-e558-495f-8c76-4c002a6e2a4d</testCaseGuid>
+</TestCaseEntity>

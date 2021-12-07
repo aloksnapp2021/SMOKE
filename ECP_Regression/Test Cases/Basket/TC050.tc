@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that only FIFM category products should be eligible for FIFM journey on basket page and relative fitting available message should be displayed against them.</description>
+   <name>TC050</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>a6ec6557-b4bb-452f-93d9-4932252a38c9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate  link &quot;looking for an older order?&quot; under My Orders section on website</description>
+   <name>TC188</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>e86e0324-e635-4a08-ba28-874ed69d6863</testCaseGuid>
+</TestCaseEntity>

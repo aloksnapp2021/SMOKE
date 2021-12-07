@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that after the user performs a new search then on the product listing page there is categories listing showing in order to navigate  to a particular category.</description>
+   <name>TC013</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>b528c6db-e4bc-4598-ac00-d532ee091f28</testCaseGuid>
+</TestCaseEntity>

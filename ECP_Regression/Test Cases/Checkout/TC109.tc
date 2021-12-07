@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;Verify that in case change checkout method &quot;&quot;Home delivery&quot;&quot; to check out in that user user will get Enter postcode popup.
+1. Enter postcode popup> User will get alert message in case passes blank postcode
+2. Enter postcode popup> User will get alert message in case passes invalid postcode&quot;</description>
+   <name>TC109</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>daf52011-231c-4790-93e3-241d779be1ea</testCaseGuid>
+</TestCaseEntity>

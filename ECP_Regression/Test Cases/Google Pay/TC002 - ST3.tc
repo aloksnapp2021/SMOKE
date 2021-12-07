@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that incase the payment fails, the user should get redirected to payment error screen (as it is flow)</description>
+   <name>TC002 - ST3</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>c1979144-b126-42ae-ac4d-770bdd85c51c</testCaseGuid>
+</TestCaseEntity>

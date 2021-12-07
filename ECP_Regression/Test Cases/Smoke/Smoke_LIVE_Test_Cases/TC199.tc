@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify FIFM order detail page</description>
+   <name>TC199</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>c6db2920-2c58-4417-8e60-573fb5c3b9d1</testCaseGuid>
+</TestCaseEntity>

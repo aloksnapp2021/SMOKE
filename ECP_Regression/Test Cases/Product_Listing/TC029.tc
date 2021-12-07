@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the view detail button for product.</description>
+   <name>TC029</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3da1b1f2-d41c-490e-9db2-319e75734d65</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2d35e6ec-145a-42e6-bf50-08d8efc7276f</id>
+      <masked>false</masked>
+      <name>Window_Title</name>
+   </variable>
+</TestCaseEntity>

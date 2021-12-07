@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that incase the customer close the website and opens it again in the same browser or any different browser the active promotion should get autopopulated again.</description>
+   <name>TC032</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>2a233af0-13af-4e9b-97a9-72f4ece14e09</testCaseGuid>
+</TestCaseEntity>

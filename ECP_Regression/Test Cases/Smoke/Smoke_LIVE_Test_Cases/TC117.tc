@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that user is not able to add quantity of a product into cart more than limit at Basket page</description>
+   <name>TC117</name>
+   <tag>Max Quantity, smoke</tag>
+   <comment></comment>
+   <testCaseGuid>53eab74a-e551-497e-8d4f-9b46448d0141</testCaseGuid>
+</TestCaseEntity>

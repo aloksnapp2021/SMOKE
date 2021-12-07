@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate for ONC Stock Verification on Choose a store to collect from</description>
+   <name>TC036</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>6bdfa270-397f-48a8-afa0-4efcce270fcc</testCaseGuid>
+</TestCaseEntity>

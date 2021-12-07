@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate mandatory fields
+1) First Name
+2) Surname
+3) Email Address
+4) Password
+5) Confirm Password</description>
+   <name>TC020</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>21a80e6a-3f2c-4f5f-b9a6-f993da8f0383</testCaseGuid>
+</TestCaseEntity>

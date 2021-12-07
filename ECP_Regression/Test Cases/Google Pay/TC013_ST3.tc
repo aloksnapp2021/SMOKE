@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Admin will be required to clear the cache once change is made to reflect the changes on front-end.</description>
+   <name>TC013_ST3</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e1d069a0-1833-421b-875b-b1dbd160abd5</testCaseGuid>
+</TestCaseEntity>

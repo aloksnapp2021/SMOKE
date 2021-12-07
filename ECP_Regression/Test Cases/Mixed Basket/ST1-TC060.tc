@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the pending items in the basket is getting displayed once Order Placed</description>
+   <name>ST1-TC060</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>81a0823d-9027-45ea-8e1d-a66d61fced3b</testCaseGuid>
+</TestCaseEntity>

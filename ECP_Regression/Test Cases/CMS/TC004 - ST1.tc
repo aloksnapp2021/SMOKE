@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user is able to see reports after applying any filter on the FIFM page.</description>
+   <name>TC004 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>c700ca4c-330b-4703-b818-250ad77ccb5f</testCaseGuid>
+</TestCaseEntity>

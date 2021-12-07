@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the text &quot;Looking for international delivery?&quot; will be displayed below unfilled post code section until user has not provided a postcode for Store Collection or UK delivery on Basket Page</description>
+   <name>TC030</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>e7c97408-0295-4924-a37b-248fa9a53920</testCaseGuid>
+</TestCaseEntity>

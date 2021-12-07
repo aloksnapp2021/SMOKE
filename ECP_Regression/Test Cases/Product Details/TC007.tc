@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the functionality of out of stock product.</description>
+   <name>TC007</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>a5b9b607-6362-4674-b744-112cf830b7fe</testCaseGuid>
+</TestCaseEntity>

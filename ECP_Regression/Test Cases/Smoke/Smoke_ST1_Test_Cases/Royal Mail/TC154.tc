@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Royal mail carriage if the weight of products in basket is 40</description>
+   <name>TC154</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>6abab1bd-3202-4c1b-8e55-6ae8df09d721</testCaseGuid>
+</TestCaseEntity>

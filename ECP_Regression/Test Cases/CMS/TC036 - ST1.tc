@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user is able to open add new mask brand page</description>
+   <name>TC036 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>5bba2f53-067a-46ee-a160-d92d998cbb80</testCaseGuid>
+</TestCaseEntity>

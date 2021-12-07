@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that alternate products list shows to customer when search product code which stock is not available</description>
+   <name>TC093</name>
+   <tag>Supersession</tag>
+   <comment></comment>
+   <testCaseGuid>666628e7-55dd-452a-b2ed-a4f7f90d824a</testCaseGuid>
+</TestCaseEntity>

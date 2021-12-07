@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Shopping cart with expired promo code</description>
+   <name>TC005</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>bec7a75e-e4f7-4555-ad68-a96f54ead6b8</testCaseGuid>
+</TestCaseEntity>

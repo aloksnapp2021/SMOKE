@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Sign-up(Register) section of checkout page</description>
+   <name>TC018</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>40df3603-394d-44dc-94db-847138a6a182</testCaseGuid>
+</TestCaseEntity>

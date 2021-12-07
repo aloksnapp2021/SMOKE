@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify user can only see masked brand not original brand throughout the FIFM journey for masked product with 9 digit product code.</description>
+   <name>TC108 - ST1</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>a8f57b30-21d6-4c3a-b641-9b0c62fd7e1a</testCaseGuid>
+</TestCaseEntity>

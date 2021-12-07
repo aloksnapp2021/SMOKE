@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that an additional checkbox named &quot;Display Countdown timer&quot; will be available to enable or disable the countdown form on the CMS.</description>
+   <name>TC010</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>17c35c8e-dd24-4da0-ab54-d81aa4fdff2d</testCaseGuid>
+</TestCaseEntity>

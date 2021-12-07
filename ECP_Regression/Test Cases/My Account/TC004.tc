@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that when user clicks on &quot;Collection&quot; then Collection Orders should be highlighted.</description>
+   <name>TC004</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>4c0dfdbc-a28f-41c9-9299-be26e94acbdb</testCaseGuid>
+</TestCaseEntity>

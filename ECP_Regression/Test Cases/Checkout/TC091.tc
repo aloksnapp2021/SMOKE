@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Address 1, Town and country fields should be filled if the user has selected the address.</description>
+   <name>TC091</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>676a5947-b454-477b-b927-898a0031f083</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b43485e4-9bdb-4b7c-99a6-af94fa6e1f1f</id>
+      <masked>false</masked>
+      <name>add_text</name>
+   </variable>
+</TestCaseEntity>

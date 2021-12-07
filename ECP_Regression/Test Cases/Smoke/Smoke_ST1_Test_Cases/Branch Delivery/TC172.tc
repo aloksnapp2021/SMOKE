@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Branch Delivery carriages if  the order is to be placed on SAT before 4 PM</description>
+   <name>TC172</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>836d9979-0613-48aa-bf7e-0466c5c57682</testCaseGuid>
+</TestCaseEntity>

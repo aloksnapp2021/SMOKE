@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the user is able  to  proceed with the mixed basket order journey</description>
+   <name>TC127</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>8eacc9b1-f71e-4f14-b073-b1055a906dc3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that as soon as user reaches back to Basket page, then the mini basket should also be updated accordingly.</description>
+   <name>ST1-TC061</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>bcb9bf8d-325b-491b-b64c-1d0bbd823ac1</testCaseGuid>
+</TestCaseEntity>

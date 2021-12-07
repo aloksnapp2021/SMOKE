@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the product listing batteries page with valid REG.</description>
+   <name>TC050</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>cabd970a-09fd-43d9-9dc7-6b959046400a</testCaseGuid>
+</TestCaseEntity>

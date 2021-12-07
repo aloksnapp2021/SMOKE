@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user is able to view the checkbox:- &quot;Please tick to receive emails from Euro Car Parts...&quot;</description>
+   <name>TC009</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>cb9c32e2-59b3-4264-8333-c340fc9a7aad</testCaseGuid>
+</TestCaseEntity>

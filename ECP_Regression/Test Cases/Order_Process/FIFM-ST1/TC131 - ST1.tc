@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Non-FIFM product should be shown instead of FIFM product after the completion of FIFM journey</description>
+   <name>TC131 - ST1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f77ce35-21d2-40de-9b0b-a6b8af7fd3d3</testCaseGuid>
+</TestCaseEntity>

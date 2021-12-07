@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user is able to open existing delivery and return content page</description>
+   <name>TC011 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>91e4202e-892a-40e4-9944-eea4c23d2b8e</testCaseGuid>
+</TestCaseEntity>

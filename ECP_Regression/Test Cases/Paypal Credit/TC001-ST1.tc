@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Paypal credit integration is done with SOPv3</description>
+   <name>TC001-ST1</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>eb8c233a-a1ae-45df-865a-a24fa5eb3713</testCaseGuid>
+</TestCaseEntity>

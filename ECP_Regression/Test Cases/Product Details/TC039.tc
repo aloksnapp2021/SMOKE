@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that after entering Postcode UKom PDP once user land on &quot;Choose a store to collect UKom&quot; user should be able to add product for CNC</description>
+   <name>TC039</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>a1958f58-c09a-4297-8c84-a1570c1942b8</testCaseGuid>
+</TestCaseEntity>

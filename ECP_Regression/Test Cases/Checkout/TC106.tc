@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify change store functionality</description>
+   <name>TC106</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>896efed9-fe71-4c7c-ba13-2793b6d47198</testCaseGuid>
+</TestCaseEntity>

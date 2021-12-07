@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Shopping Checkout with expired promo code.</description>
+   <name>TC015</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>ec0482cd-9023-4a5e-aac8-8bd7b502210f</testCaseGuid>
+</TestCaseEntity>

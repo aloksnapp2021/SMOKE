@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify reserve functionality</description>
+   <name>TC104 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>5611ebc5-6abf-4984-a684-7bb11d8c0d33</testCaseGuid>
+</TestCaseEntity>

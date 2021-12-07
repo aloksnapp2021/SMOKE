@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify EBAY orders listing</description>
+   <name>TC020 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>3e42a622-17e9-4041-aec6-1d7a555d7c36</testCaseGuid>
+</TestCaseEntity>

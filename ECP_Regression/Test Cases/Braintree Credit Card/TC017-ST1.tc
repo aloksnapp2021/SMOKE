@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Resend OTP Availability.</description>
+   <name>TC017-ST1</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>d77ecbe4-9f7c-4969-8028-c1053a0689a4</testCaseGuid>
+</TestCaseEntity>

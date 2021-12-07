@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user is able to open add new product code exclusion page</description>
+   <name>TC030 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>8bc64c0a-139e-4cb3-880d-02ead5d7b24c</testCaseGuid>
+</TestCaseEntity>

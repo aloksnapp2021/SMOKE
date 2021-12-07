@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate User can do checkout with already registered Account.</description>
+   <name>TC033</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>429208de-e182-4c07-8f34-f01e79cbd86f</testCaseGuid>
+</TestCaseEntity>

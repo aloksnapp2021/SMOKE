@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Click and collect functionality for product at PDP</description>
+   <name>TC025</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>ceb346d6-e681-458b-b12d-e7c9a4bac031</testCaseGuid>
+</TestCaseEntity>

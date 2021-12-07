@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that on the PLP there is Sort By option showing for sorting the products.
+</description>
+   <name>TC090</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>47218741-3665-46b7-b18c-968b34ad3c30</testCaseGuid>
+</TestCaseEntity>

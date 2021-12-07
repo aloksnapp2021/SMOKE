@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that on the order confirmation page existing functionalities are coming like Basket, Sign In, Wishlist, Store Locator.
+</description>
+   <name>TC005 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>34af11c2-640c-4ecb-ac6b-edac10a235fe</testCaseGuid>
+</TestCaseEntity>

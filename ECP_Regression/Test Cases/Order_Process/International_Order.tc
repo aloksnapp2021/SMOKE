@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test cases will verify the International delivery order.</description>
+   <name>International_Order</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>840d4ed9-9f60-4793-b350-383b0556f54e</testCaseGuid>
+</TestCaseEntity>

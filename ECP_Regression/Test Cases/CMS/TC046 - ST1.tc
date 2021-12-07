@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user is able to open add new popular brand page</description>
+   <name>TC046 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>915fa2c0-7eb3-4251-a6cd-e25e7bb80fc2</testCaseGuid>
+</TestCaseEntity>

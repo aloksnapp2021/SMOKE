@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate User will get Below Section on home page
+
+1. Top Trending
+
+2. Latest Offers
+3. Your recently viewed items
+ (After viewing an item PDP)
+4. What our customers think
+
+5. Why use anyone else?&quot;</description>
+   <name>TC071</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>cc977f0b-30f4-415b-81ff-e22819299104</testCaseGuid>
+</TestCaseEntity>

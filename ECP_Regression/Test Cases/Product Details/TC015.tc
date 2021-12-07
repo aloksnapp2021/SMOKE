@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Click &amp; collect functionality when product is out of stock.</description>
+   <name>TC015</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>1fc932f7-2be3-44ae-b1d9-2301da590aa8</testCaseGuid>
+</TestCaseEntity>

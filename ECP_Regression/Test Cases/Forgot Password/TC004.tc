@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Forgot password functionality with non-existing email id.</description>
+   <name>TC004</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>4e091350-416a-43e5-882a-bc7366aec34c</testCaseGuid>
+</TestCaseEntity>

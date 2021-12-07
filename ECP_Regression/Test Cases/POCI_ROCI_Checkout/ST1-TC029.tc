@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user is able to input Order Number in Order Number Textbox</description>
+   <name>ST1-TC029</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>87def354-fd92-42bf-92b3-9b7eb1723047</testCaseGuid>
+</TestCaseEntity>

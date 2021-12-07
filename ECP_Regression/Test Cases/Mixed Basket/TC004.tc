@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Shopping cart with valid promo code</description>
+   <name>TC004</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>c6bdd101-08dd-4ef0-93f9-f14111a97cc1</testCaseGuid>
+</TestCaseEntity>

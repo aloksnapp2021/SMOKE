@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Shopping basket functionality</description>
+   <name>TC048</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>ee6ea977-cbf6-49b0-9dc0-6ff1f9a39d3a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aa4026ee-6d88-4b8f-b70a-38f2e46716b8</id>
+      <masked>false</masked>
+      <name>Wintitle</name>
+   </variable>
+</TestCaseEntity>

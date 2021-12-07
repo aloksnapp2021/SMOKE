@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Paypal braintree with mixed basket orders</description>
+   <name>TC010-ST1</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>29322736-7088-4ed4-8fa1-9fb00a778819</testCaseGuid>
+</TestCaseEntity>

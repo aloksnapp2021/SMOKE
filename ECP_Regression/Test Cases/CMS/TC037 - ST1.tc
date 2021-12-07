@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user is able to open add new user page</description>
+   <name>TC037 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>95f6cf74-bfae-4b30-8edd-080c54b1b85e</testCaseGuid>
+</TestCaseEntity>

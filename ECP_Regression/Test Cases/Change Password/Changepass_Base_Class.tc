@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case will navigate the user to the change password page after login.</description>
+   <name>Changepass_Base_Class</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>745ef077-8a69-4266-9078-1510ce9332c6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Yes or No function of  &quot;Is your delivery address different to your billing address&quot; section.</description>
+   <name>TC040</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e675e0ee-e222-4a1c-842d-263626e50af4</testCaseGuid>
+</TestCaseEntity>

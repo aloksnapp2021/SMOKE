@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Forgot password functionality with invalid email id</description>
+   <name>TC038</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>cca37baf-cf22-4b4c-8cbc-807b6e50e22c</testCaseGuid>
+</TestCaseEntity>

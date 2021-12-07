@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that there should be an option to choose between CNC (POCI) and HWD</description>
+   <name>TC013</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>becca367-bd99-4630-a824-5e8906a0db89</testCaseGuid>
+</TestCaseEntity>

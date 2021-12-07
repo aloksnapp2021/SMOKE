@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Upon selecting this check box, there must be validation in place to check that no other promo exists on the same website with autopopulate selected within the same start/end date ranges.</description>
+   <name>TC007</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>fd6dfb05-8b01-423d-ab85-22007d458469</testCaseGuid>
+</TestCaseEntity>

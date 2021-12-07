@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify change branch functionality</description>
+   <name>TC018 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>a76be020-645f-4728-bd3a-48fba633c293</testCaseGuid>
+</TestCaseEntity>

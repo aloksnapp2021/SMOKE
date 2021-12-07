@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user is able to open Manage MOS setting page</description>
+   <name>TC025 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>473a5258-060c-42bf-a2b9-69cb536416fa</testCaseGuid>
+</TestCaseEntity>

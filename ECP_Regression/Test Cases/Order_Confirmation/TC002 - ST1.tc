@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the following message will be displayed if user has pending items in basket:
+
+a. You have 1 item left in your basket available for collection.</description>
+   <name>TC002 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>7a375372-edc3-4248-88fc-329fa71f71da</testCaseGuid>
+</TestCaseEntity>

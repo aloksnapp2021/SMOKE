@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Forgot password functionality with valid email id</description>
+   <name>TC016</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>cfe1db46-7756-47c5-a614-7e8cd48a14de</testCaseGuid>
+</TestCaseEntity>

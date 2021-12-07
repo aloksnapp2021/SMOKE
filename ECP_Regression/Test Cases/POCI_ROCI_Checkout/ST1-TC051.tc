@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that POCI orders should be available for ECP UK</description>
+   <name>ST1-TC051</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>3e2b54bd-bf75-4e48-8f55-dadc1b5bcf55</testCaseGuid>
+</TestCaseEntity>

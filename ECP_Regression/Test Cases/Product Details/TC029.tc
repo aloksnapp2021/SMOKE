@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate in case User has entered Reg/ MVL which is not support for Product we are showing below Error message on PDP along with select MVL drop downs
+&quot;&quot;This part will not fit the vehicle which you currently have selected. Please ensure correct fitment by using the vehicle selector below.</description>
+   <name>TC029</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>6ca0ed72-ffdc-4c07-bb4a-3171239653bd</testCaseGuid>
+</TestCaseEntity>

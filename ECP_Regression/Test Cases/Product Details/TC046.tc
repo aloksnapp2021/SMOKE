@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the bettery demation and related images in detail screen.</description>
+   <name>TC046</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>251344ec-d5cd-45e3-b64a-6692727ffaf9</testCaseGuid>
+</TestCaseEntity>

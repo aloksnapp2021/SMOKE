@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the a new module named as &quot;Google Pay&quot; is created under module settings in the Admin panel.</description>
+   <name>TC011-ST3</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e272b320-fb9e-4335-8a9b-e5c9d2d1ab44</testCaseGuid>
+</TestCaseEntity>

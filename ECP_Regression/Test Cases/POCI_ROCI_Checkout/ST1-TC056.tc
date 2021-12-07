@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Status column will have the following values as per the below criteria only for New orders (Based on Order Creation Date):
+ 
+ &quot;New&quot; for any new POCI/ROCI Order which are one day old
+ &quot;X days old&quot; from 2nd day onwards</description>
+   <name>ST1-TC056</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>4bef6ea7-8b46-4de9-a8b5-6bd05ddda727</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that when user clicks on &quot;FIFM&quot; option then FIFM Orders should be highlighted.</description>
+   <name>TC006</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>4ec40b69-8760-44e2-8dd3-cbaaa03b54b6</testCaseGuid>
+</TestCaseEntity>

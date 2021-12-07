@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the products listing for any category.</description>
+   <name>TC010</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>339cda28-a68a-430a-a763-b12003ffdfdf</testCaseGuid>
+</TestCaseEntity>

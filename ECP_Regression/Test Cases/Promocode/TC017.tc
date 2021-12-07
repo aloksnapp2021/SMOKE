@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that if the Discount is not applicable for the product then the Was Price and Sale Price will be same (VAT Inclusive price).</description>
+   <name>TC017</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>ac3fc531-87e8-4367-a00b-d6abc8095fcf</testCaseGuid>
+</TestCaseEntity>

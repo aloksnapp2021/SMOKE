@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that the user is able to enter REG and after submitting REG vehicle is showing selected based upon the REG no.</description>
+   <name>TC048</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b60e63c5-5895-4ee1-b898-a05565913380</testCaseGuid>
+</TestCaseEntity>

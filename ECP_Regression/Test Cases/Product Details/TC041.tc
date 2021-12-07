@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that user will get below details on CNC page
+
+1. Branch Name
+
+2. Miles
+
+3. View Map</description>
+   <name>TC041</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>afdd0dcd-0293-4d87-adfc-9204a247329c</testCaseGuid>
+</TestCaseEntity>

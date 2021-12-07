@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>SOP Order processing -  POCI</description>
+   <name>TC191</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>ff15566b-62c0-4304-91c8-c60cc8ae45a5</testCaseGuid>
+</TestCaseEntity>

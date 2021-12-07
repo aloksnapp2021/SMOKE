@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verfiy that Invoice to: and Collect from: Info will correctly listed on order confirmation page</description>
+   <name>TC018 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>9f02e6c8-9b75-4ec1-af6b-9102567665ff</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>qty_select_1</name>
+   <tag></tag>
+   <elementGuidId>bfc939ad-ca48-4e98-a273-6c019ed5ece8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.option.selected.focus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@data-value=&quot;1&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the preferred brands navigation functionality for single product.</description>
+   <name>TC024</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>070b68db-ae0a-4c89-9ac7-f08a69e8dc71</testCaseGuid>
+</TestCaseEntity>

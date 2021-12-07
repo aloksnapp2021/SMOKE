@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Search functionality with wrong Keyword
+</description>
+   <name>TC007</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>853c54b1-1359-453f-a59b-c8d369d03c04</testCaseGuid>
+</TestCaseEntity>

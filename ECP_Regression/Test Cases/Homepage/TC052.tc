@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Car Accessories Tab functionality</description>
+   <name>TC052</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>67f0dfa0-d608-428a-a03b-6e9ce203efe6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>14a24681-e584-4b99-8d75-f8a14308deca</id>
+      <masked>false</masked>
+      <name>accesstitle</name>
+   </variable>
+</TestCaseEntity>

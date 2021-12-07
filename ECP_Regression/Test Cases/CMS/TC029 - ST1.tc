@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user is able to open add new DHL printer page</description>
+   <name>TC029 - ST1</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>cf6e9a0e-342e-4113-8542-4cc83b6d2dd7</testCaseGuid>
+</TestCaseEntity>

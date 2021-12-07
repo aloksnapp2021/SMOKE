@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that if the user enters a valid Promocode on the Basket page then the total price is getting discounted.
+</description>
+   <name>TC035</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>b05b29d7-fe0d-428b-a1c7-bda2ca16658c</testCaseGuid>
+</TestCaseEntity>
